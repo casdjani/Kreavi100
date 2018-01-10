@@ -1,0 +1,95 @@
+{
+    "category": [
+        {
+            "identifier": 1,
+            "tag": "Illustration",
+            "users":[1, 2, 3, 5, 6, 7, 8, 9, 12, 13, 14, 15, 16, 18, 19, 20, 21, 22, 23, 24, 26, 29, 30, 32, 34, 35, 36, 38, 39, 40, 41, 42, 43, 45, 47, 50, 51, 52, 54, 57, 60, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 78, 79, 80, 81, 82, 84, 85, 86, 88, 90, 92, 93, 94, 97, 98, 99]
+        },
+        {
+            "identifier": 2,
+            "tag": "Character Design",
+            "users":[1, 3, 4, 8, 13, 15, 19, 20, 21, 24, 25, 26, 27, 32, 34, 37, 39, 41, 49, 51, 66, 67, 69, 72, 90, 94, 97]
+        },
+        {
+            "identifier": 3,
+            "tag": "Concept Art",
+            "users":[13, 19, 25, 29, 37, 39, 44, 49, 58, 63, 67, 69, 73, 84, 93]
+        },
+        {
+            "identifier": 4,
+            "tag": "Infographic",
+            "users":[3, 16, 47, 57, 76]
+        },
+        {
+            "identifier": 5,
+            "tag": "Video/Animation",
+            "users":[16, 24, 28, 35, 79, 92]
+        },
+        {
+            "identifier": 6,
+            "tag": "Typography",
+            "users":[6, 10, 11, 15, 17, 28, 48, 52, 53, 60, 61, 64, 71, 77, 81, 83, 87, 98]
+        },
+        {
+            "identifier": 7,
+            "tag": "Graphic Design",
+            "users":[1, 2, 4, 5, 7, 8, 9, 10, 11, 14, 17, 21, 22, 23, 27, 28, 30, 31, 32, 33, 35, 36, 38, 40, 41, 42, 43, 44, 45, 47, 48, 52, 53, 54, 55, 57, 58, 60, 61, 62, 64, 65, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 86, 87, 88, 92, 96, 98, 99, 100]
+        },
+        {
+            "identifier": 8,
+            "tag": "Branding",
+            "users":[2, 7, 10, 11, 14, 17, 22, 31, 33, 34, 38, 40, 48, 50, 53, 54, 55, 56, 61, 62, 65, 70, 75, 76, 77, 83, 86, 87, 96, 100]
+        },
+        {
+            "identifier": 9,
+            "tag": "Digital Art",
+            "users":[4, 12, 20, 27, 36, 42, 43, 45, 46, 63, 74, 78, 80, 94, 97, 99]
+        },
+        {
+            "identifier": 10,
+            "tag": "Fine Art",
+            "users":[5]
+        },
+        {
+            "identifier": 11,
+            "tag": "Fashion",
+            "users":[18]
+        },
+        {
+            "identifier": 12,
+            "tag": "Product Design",
+            "users":[31]
+        },
+        {
+            "identifier": 13,
+            "tag": "Photography",
+            "users":[33, 44, 58, 59, 63, 88, 89, 95, 96]
+        },
+        {
+            "identifier": 14,
+            "tag": "Comic",
+            "users":[50]
+        },
+        {
+            "identifier": 15,
+            "tag": "Pattern Design",
+            "users":[51]
+        },
+        {
+            "identifier": 16,
+            "tag": "Advertising",
+            "users":[55, 56]
+        },
+        {
+            "identifier": 17,
+            "tag": "Packaging Design",
+            "users":[56, 62]
+        },
+        {
+            "identifier": 18,
+            "tag": "Editorial Design",
+            "users":[100]
+        },
+
+    ]
+}

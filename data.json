@@ -1,0 +1,1305 @@
+const data = {
+    "data": [
+        {
+            "identifier": 1,
+            "url": "http://www.kreavi.com/NMaulina",
+            "profile": {
+                "name": "Aaron Randy",
+                "imageUrl": "foto-kreator/Aaron.jpg",
+                "birthDate": "01 July 1986",
+                "origin": "Tangerang",
+            },
+            "categories": [2, 7, 1],
+            "portofoilios": [1, 2, 3],
+            "description": "Gemar memelihara kelinci membuat Aaron sering menjadikan binatang favoritnya ini sebagai objek gambar. Gaya ilustrasinya yang fokus untuk anak-anak tentunya telah mengalami proses yang panjang. Aaron sempat beberapa kali mengubah gaya gambarnya dari manga dan realis. Pria lulusan DKV Bina Nusantara ini telah menangani proyek buku anak untuk beberapa negara seperti Singapura, Amerika Serikat, dan Indonesia sendiri tentunya. Dia juga pernah beberapa kali menerbitkan bukunya sendiri (self-publishing) yang salah satunya terpilih untuk Bologna Children’s Book Fair di Italia. Dengan keahliannya di bidang ilustrasi untuk anak ini, Aaron mendapatkan juara pertama untuk Silent Book Competition SCBWI Indonesia 2015. Diam-diam Aaron juga membuat ilustrasi untuk aplikasi game, musik anak, produk, branding, maskot, logo, dan lain sebagainya."
+        },
+        {
+            "identifier": 2,
+            "url": "http://www.kreavi.com/abiyasa",
+            "profile": {
+                "name": "Abiyasa Adiguna Legawa",
+                "imageUrl": "foto-kreator/Abiyasa.jpg",
+                "birthDate": "27 February 1993",
+                "origin": "Bandung",
+            },
+            "category": [8, 7, 1],
+            "portofoilio": [4, 5, 6],
+            "description": "Mengenal dunia seni dan desain grafis sejak kuliah di ITENAS Bandung sebagai mahasiswa DKV, Abiyasa mengeksplorasi dan menemukan passion di bidang ilustrasi. Senang mencampurkan berbagai objek dengan warna-warni unik membuat karya Abiyasa memiliki kesan menyenangkan dan sederhana. Karya Abiyasa pernah ditampilkan dalam AAD Outsanding Illustation Artist in Asia 2016 yang dipublikasikan oleh The Asia Art Design Platform bersama lima ilustrator Indonesia lainnya. Abiyasa juga aktif berpartisipasi dalam pameran lokal di Bandung dan Jakarta. Dalam berkarya, ada deretan nama yang selalu menginspirasinya seperti Tommy Chandra, Sarkodit, Esther Goh, dan Renata Owen. Selain mendesain, Abiyasa juga memiliki hobi fotografi dan mendengarkan musik. Saat ini, lelaki kelahiran 1993 ini bekerja di agensi digital Maknetik dan ia tetap aktif mengerjakan proyek di luar kantor yang lebih ke arah ilustrasi."
+        },
+        {
+            "identifier": 3,
+            "url": "http://www.kreavi.com/adamtny",
+            "profile": {
+                "name": "Adam Tri Nuryanto",
+                "imageUrl": "foto-kreator/Adam_tny.JPG",
+                "birthDate": "26 July 1991",
+                "origin": "Surabaya",
+            },
+            "category": [2, 1, 4],
+            "portofoilio": [7, 8, 9],
+            "description": "Adam Tri Nuryanto adalah seorang pekerja lepas dengan ilustrator spesialis vector art. Perjalanan kariernya dimulai dari sekolah kejuruan seni di SMK 12 Surabaya. Dari sana dia mulai mengenal desain dan gambar vector. Selama berkuliah di Stikosa AWS jurusan Komunikasi, Adam juga  bekerja sebagai layouter majalah di Suara Surabaya Media dan kemudian bekerja di studio game Artlogic. Di tempat kerja inilah dia bertemu dengan orang-orang yang berpengaruh dalam karya seninya. Adam belajar bagaimana cara menggambar secara efisien dan meningkatkan kualitas karya. Setelah empat tahun bekerja di studio game Artlogic, Adam akhirnya memutuskan untuk menjadi freelancers sampai sekarang. Bidang yang dikerjakannya pun sangat beragam. Mulai dari game designer, ilustrator untuk buku, komik, sampai mendesain situs web."
+        },
+        {
+            "identifier": 4,
+            "url": "http://www.kreavi.com/weirdeetz",
+            "profile": {
+                "name": "Aditya Nugraha Putra",
+                "imageUrl": "foto-kreator/Aditya-np.JPG",
+                "birthDate": "23 November 1984",
+                "origin": "Yogyakarta",
+            },
+            "category": [9, 7, 2],
+            "portofoilio": [10, 11, 12],
+            "description": "Aditya Nugraha putra adalah pendiri dari Weirdsgn Studio, sebuah studio khusus yang melayani proyek desain icon, UI, web, dan ilustrasi untuk game dan aplikasi mobile maupun desktop. Sebelumnya, Aditya pernah bekerja di perusahaan penerbitan yang menangani creative ads, advertorial layout, ilustrasi, digital imaging, serta berbagai konten digital untuk situs. Sering mengikuti kontes desain crowdsourcing di internet membuat Aditya nyaman berprofesi sebagai  desainer lepas. Style Skeumorph merupakan keahlian dan khas tim Weirdsgn Studio yang membuat klien-klien luar negeri terpikat untuk menjalin kerjasama."
+        },
+        {
+            "identifier": 5,
+            "url": "http://www.kreavi.com/AdityaPratamaPutra",
+            "profile": {
+                "name": "Aditya Pratam",
+                "imageUrl": "foto-kreator/aditya-pratama.jpg",
+                "birthDate": "2 November 1987",
+                "origin": "Jawa Barat",
+            },
+            "category": [10, 7, 1],
+            "portofoilio": [13, 14, 15],
+            "description": "Lebih dikenal dengan nama Sarkodit, Aditya Pratama adalah seorang ilustrator lepas yang sering bermain dengan berbagai warna dan bentuk yang tidak berstruktur di dalam karyanya. Sarkodit mengenal ilustrasi dari berbagai buku pemberian orangtua dan pamannya. Bakat gambarnya semakin terasah ketika dia berkuliah di ITENAS Bandung sebagai mahasiswa DKV. Sebelum mendalami dunia ilustrasi, Sarkodit sempat bekerja di bidang periklanan dan memenangkan sejumlah penghargaan. Di bidang ilustrasi sendiri, Sarkodit pernah diganjar titel Special Prize Genkosha Illustration File Award di Asian Creative Award pada tahun 2015."
+        },
+        {
+            "identifier": 6,
+            "url": "http://www.kreavi.com/Angoes25",
+            "profile": {
+                "name": "Agus Setyawan",
+                "imageUrl": "foto-kreator/Angoes.jpg",
+                "birthDate": "25 September 1985",
+                "origin": "Semarang",
+            },
+            "category": [1, 6],
+            "portofoilio": [16, 17, 18],
+            "description": "Pendidikan terakhir lelaki asal Semarang ini adalah tingkat SMK. Agus yang juga dikenal dengan nama Angoes25 ini tetap bersemangat untuk berlatih ilustrasi secara otodidak. Bermula dari hanya sekadar hobi dan iseng-iseng mencoba berbagai kompetisi desain kaus, Agus berhasil memperluas koneksinya dengan berbagai ilustrator profesional Indonesia, berbagi ilmu, bertukar pendapat, hingga mendapat berbagai proyek dari klien-klien lokal dan luar negeri. Selain fokus menjadi ilustrator lepas, bapak dua orang putri ini juga menggemari tipografi, desain karakter, branding, dan desain logo."
+        },
+        {
+            "identifier": 7,
+            "url": "http://www.kreavi.com/alfanykhaniv",
+            "profile": {
+                "name": "Alfany Khanifyana",
+                "imageUrl": "foto-kreator/AlfanyKhanifyana.png",
+                "birthDate": "17 May 1992",
+                "origin": "Surabaya",
+            },
+            "category": [8, 7, 1],
+            "portofoilio": [19, 20, 21],
+            "description": "Alfany punya segudang cita-cita, salah satunya terjun di bidang desain visual. Hasratnya yang tinggi untuk dunia seni dan kegigihannya setiap mengerjakan proyek desain, membuatnya sangat cepat memvisualisasikan serta mengeksekusi konsep yang sudah ia pikirkan. Sejak masih kuliah pun Alfany sering menerima berbagai proyek desain dan ilustrasi. Alfany juga sering berpartisipasi dalam proyek kolaborasi dengan berbagai ilustrastor berbakat di Surabaya, seperti kalende Bon Cafe 2015. Kini Alfany bekerja sebagai Account Executive (AE) merangkap manajer media sosial di Literoom Designlab, studio desain di Surabaya yang fokus pada desain grafis dan ilustrasi."
+        },
+        {
+            "identifier": 8,
+            "url": "http://www.kreavi.com/Amien15",
+            "profile": {
+                "name": "Amien Sholichien",
+                "imageUrl": "foto-kreator/amien.jpg",
+                "birthDate": "15 May 1996",
+                "origin": "Makassar",
+            },
+            "category": [8, 7, 1],
+            "portofoilio": [22, 23, 24],
+            "description": "Amien Juugo adalah seorang pekerja lepas yang fokus pada desain grafis dan ilustrasi asal Makassar, Sulawesi Selatan. Berbagai karyanya terinspirasi dari dua hal yang sangat ia sukai, yakni film dan desain karakter. Amien mulai mengenal dunia ilustrasi dan desain grafis ketika kuliah pada tahun 2013. Kemudian dia mendalami teknik seni vector hingga sekarang. Sebagai ilustrator, Amien banyak belajar dari memperhatikan cara kerja ilustrator-ilustrator ternama seperti James Jean, Vincent Aseo, Cristiano Siqueira dan Sweta Kartika. Saat ini Amien telah mengerjakan banyak proyek baik dari dalam maupun luar negeri yang melingkupi ilustrasi potret, desain karakter, poster, sampul, dan pengemasan."
+        },
+        {
+            "identifier": 9,
+            "url": "http://www.kreavi.com/malonahuai",
+            "profile": {
+                "name": "Anca Sangadji",
+                "imageUrl": "foto-kreator/Anca.JPG",
+                "birthDate": "17 August 1983",
+                "origin": "Jakarta",
+            },
+            "category": [7, 1],
+            "portofoilio": [25, 26, 27],
+            "description": "Selama lebih dari sembilan tahun berpengalaman di digital advertising, Anca tidak hanya memiliki kemampuan ilustrasi, tetapi juga art direction, desain UI/UX, web design, graphic design, animation, dan standard front end development. Anca kemudian melebur dua hasrat besarnya, yakni seni dan teknologi secara bersamaan. Anca yang mengambil jurusan Teknologi Informasi ini belajar desain secara otodidak melalui buku dan forum yang dia ikuti. Beberapa kali Anca mengikuti mini group exhibition dan karyanya ditampilkan di beberapa media online dalam dan luar negeri."
+        },
+        {
+            "identifier": 10,
+            "url": "http://www.kreavi.com/Edfan",
+            "profile": {
+                "name": "Andre Edfan",
+                "imageUrl": "foto-kreator/Andre-edfan.jpg",
+                "birthDate": "18 December 1995",
+                "origin": "Jakarta",
+            },
+            "category": [28, 29, 30],
+            "portofoilio": [8, 7, 6],
+            "description": "Sebagai desainer grafis, Andre melihat desain bukan hanya sekadar indah dipandang mata, tetapi juga memiliki fungsi untuk menyampaikan pesan yang jelas sekaligus persuasif. Tak hanya itu, ia juga percaya bahwa desain yang baik tidak hanya memberikan dampak baik bagi pemilik bisnis, namun juga memberikan dampak baik ke masyarakat. Lulusan DKV Creative Advertising Universitas Bina Nusantara ini pernah menjadi finalis BG Award tahun 2014. Dalam perjalanan kariernya, Andre mendalami bidang branding di studio HIGHERPURPOSE sebagai co-partner, kemudian melanjutkan bekerja di Studio Brandkraft. Pengalaman bekerja di kedua tempat tersebut memperkaya pengalamannya dalam membuat branding perusahaan real estate, fashion, hingga food and beverage."
+        },
+        {
+            "identifier": 11,
+            "url": "http://www.kreavi.com/anggapradica",
+            "profile": {
+                "name": "Angga Pradica",
+                "imageUrl": "foto-kreator/Angga-pradica.jpg",
+                "birthDate": "11 March 1993",
+                "origin": "Jakarta",
+            },
+            "category": [31, 32, 33],
+            "portofoilio": [8, 7, 6],
+            "description": "Alasan Angga bisa tertarik di dunia desain grafis bisa dibilang sederhana, yaitu karena melihat berbagai desain kaus band. Dari situ, ia berusaha mendalami dunia seni dan memutuskan untuk mengambil jurusan Desain Komunikasi Visual New Media di Universitas Bina Nusantara pada tahun 2011. Kini, Angga yang lahir di Medan ini bekerja sebagai desainer grafis di Studio Nusae. Kemudian bersama Studio Nusae & Andi Rahmat, Angga pernah mendapatkan medali perunggu untuk proyek signage NuArt Sculpture Park di ajang Pinasthika Award. Secara keseluruhan, karya Angga fokus di bidang virtual identity, tipografi, dan sign system."
+        },
+        {
+            "identifier": 12,
+            "url": "http://www.kreavi.com/anggatantama",
+            "profile": {
+                "name": "Angga Tantama",
+                "imageUrl": "foto-kreator/Angga-tantama.JPG",
+                "birthDate": "3 August 1989",
+                "origin": "Jawa Tengah",
+            },
+            "category": [34, 35, 36],
+            "portofoilio": [9, 1],
+            "description": "Angga Tantama adalah ilustrator lepas asal Solo. Dia pernah berkesempatan mengerjakan proyek dari Microsoft untuk kebutuhan konsol game pada akhir tahun 2016. Lulusan Desain Komunikasi Visual Universitas Sahid Surakarta ini memulai kariernya sebagai ilustrator profesional sejak akhir tahun 2010. Angga yang juga memiliki ketertarikan pada seni vector telah mengerjakan banyak proyek untuk kebutuhan desain t-shirt dan beberapa ilustrasi lainnya."
+        },
+        {
+            "identifier": 13,
+            "url": "http://www.kreavi.com/NMaulina",
+            "profile": {
+                "name": "Ann Maulina",
+                "imageUrl": "foto-kreator/Ann-maulina.jpg",
+                "birthDate": "21 September 1992",
+                "origin": "Jawa Barat",
+            },
+            "category": [37, 38, 39],
+            "portofoilio": [2, 3, 1],
+            "description": "Akhir tahun 2016, nama Ann Maulina banyak diperbincangkan di kalangan komikus berkat komik buatannya Raruurien yang mendapatkan penghargaan dari International Manga Award dan dikirim langsung ke Negeri Sakura, Jepang. Sebelumnya pada 2015, Ann bersama dua temannya mendirikan circle dengan nama Krōma yang kemudian menerbitkan Krōma Comic Anthology dan memenangkan berbagai penghargaan, seperti Komik Kompilasi Terbaik pada Pakoban Award dan Best Local Comic pada TGR Award. Tidak hanya sebagai komikus, Ann juga dikenal sebagai ilustrator, gamer dan concept artist. Sejak SMA, Ann sudah mulai membuka jasa ilustrasi dan desain karakter sebagai freelancer dan hal ini berlanjut ke masa kuliah dengan bentuk jasa yang beragam seperti ilustrasi novel dan desain logo."
+        },
+        {
+            "identifier": 14,
+            "url": "http://www.kreavi.com/archysinatrya",
+            "profile": {
+                "name": "Archy Sinatrya",
+                "imageUrl": "foto-kreator/Archy.jpg",
+                "birthDate": "1 June 1996",
+                "origin": "Surabaya",
+            },
+            "category": [40, 41, 42],
+            "portofoilio": [8, 7, 1],
+            "description": "Archy Sinatrya adalah desainer grafis yang fokus pada visual identity, branding, desain editorial, dan ilustrasi. Saat masa kuliah, Archy sudah bekerja di salah satu agensi desain interior ternama di Surabaya. Setelah lulus dari ITS jurusan DKV, Archy bergabung dengan salah satu developer properti besar untuk mengerjakan majalah bulanan sebagai creative director sekaligus ilustrator untuk mendesain cover. Setelah itu dia sempat mencoba peruntungan dengan mendirikan agensi desain sendiri bersama tiga temannya. Agensi miliknya telah berjalan selama satu setengah tahun hingga akhirnya Archy memutuskan untuk bekerja in-house sebagai desainer grafis di UBAYA sambil tetap mengerjakan proyek-proyek lepas."
+        },
+        {
+            "identifier": 15,
+            "url": "http://www.kreavi.com/pray",
+            "profile": {
+                "name": "Ardan Kukuh Prayogo",
+                "imageUrl": "foto-kreator/Ardan-kukuh.JPG",
+                "birthDate": "27 May 1990",
+                "origin": "Surakarta",
+            },
+            "category": [43, 44, 45],
+            "portofoilio": [2, 1, 6],
+            "description": "Dari 30 ilustrator yang menyumbang keahlian untuk karya seni kolaborasi bersama Vidi Aldiano berjudul PERSONA, Ardan adalah salah satunya. Ardan memang aktif berpartisipasi di berbagai proyek berbau seni sebagai bidang yang ia geluti. Ardan pernah mendapat kesempatan berkontribusi di buku kompilasi karya seni kampusnya, TUGITU. Dari sini ia mendapatkan klien pertama dan mulai fokus pada ilustrasi dan desain karakter. Ardan juga beberapa kali membuat karya ilustrasi untuk band Mocca, yaitu Good Morning Love yang terinspirasi dari lagu Good Morning dan Mocca X Pray Anniversary yang merepresentasikan para personelnya saat hari jadi mereka yang ke-16. Selain itu, Ardan masih bersemangat untuk mengikuti kompetisi desain dan beberapa kali menjuarai desain kaos di thinkcookcook.dom, juara 3 untuk phone case design Telkomsel & Gantibaju.com pada 2015, serta masuk dalam top 20 Kreavi Challenge SejutaXpresi BCA."
+        },
+        {
+            "identifier": 16,
+            "url": "http://www.kreavi.com/Ardhira",
+            "profile": {
+                "name": "Ardhira Anugrah Putra",
+                "imageUrl": "foto-kreator/ARDHIRA.png",
+                "birthDate": "21 August 1988",
+                "origin": "Jakarta",
+            },
+            "category": [46, 47, 48],
+            "portofoilio": [1, 4,5],
+            "description": "Sembilan tahun menekuni ilustrasi, animasi, dan motion graphic bukanlah waktu yang lama untuk pria lulusan Multimedia University Malaysia ini untuk menorehkan sejumlah prestasi di bidang yang dikuasainya. Pada tahun 2008, proyek ilustrasinya bernama “Keledai” memenangkan beberapa penghargaan dari Pinasthika Festival Iklan dan ADOI Award. Ardhira juga mendapat juara 2 dari 14th Digicon6 Malaysia, sebuah kompetisi film animasi yang diadakan di Jepang untuk animasi pendek berjudul “Kitik”, yang juga merupakan tugas akhir kuliahnya. Tak hanya itu, “Kitik” pun diganjar penghargaan animasi terbaik di Piala Maya 2012 dan XXI short film 2014. Setahun belakangan, Ardhira bersama tim Pijaru berhasil menyabet Piala Citra untuk kategori film animasi terbaik pada Festival Film Indonesia (FFI) 2016 berkat karyanya yang berjudul “Surat Untuk Jakarta”."
+        },
+        {
+            "identifier": 17,
+            "url": "http://www.kreavi.com/auliaakbar",
+            "profile": {
+                "name": "Aulia Akbar",
+                "imageUrl": "foto-kreator/auliaakbar.jpg",
+                "birthDate": "7 May 1992",
+                "origin": "Bandung",
+            },
+            "category": [49, 50, 51],
+            "portofoilio": [8, 7, 6],
+            "description": "Lelaki ini mengaku hobi fotografi sejak duduk di bangku SMA. Seiring berjalannya waktu, Aulia semakin fokus di bidang seni dan sempat mendirikan studio grafis bernama Natamemora. Sayangnya, Natamemora terpaksa ditutup karena minim pengalaman dalam bisnis desain. Semangatnya tak pernah pudar, ia lantas tetap aktif berkontribusi di banyak kesempatan seperti Bandung Design Friendly dan ADGI. Berkat kegigihannya dalam berkarya, Aulia berhasil diganjar berbagai prestasi seperti juara pertama Pankromatik Black and White Photography, medali perunggu atas predikat Book Cover Design & Poster Design Categories untuk Layang Kancana 2014, Best Symbiotic (Social Impact Project Based) Award KMDGI, dan juara pertama Bandung Car Modification Photo-Contest. Saat ini Aulia bekerja sebagai desainer grafis di POT Branding House bersama tiga temannya, Kresna Akhmadi, Ihsan Farhan dan Tazul Arifin."
+        },
+        {
+            "identifier": 18,
+            "url": "http://www.kreavi.com/AzisWicaksono",
+            "profile": {
+                "name": "Azis Wicaksono",
+                "imageUrl": "foto-kreator/Azis-Wicaksono.jpg",
+                "birthDate": "4 November 1991",
+                "origin": "Semarang",
+            },
+            "category": [52, 53, 54],
+            "portofoilio": [7, 1, 11],
+            "description": "Semua berawal dari komik. Azis Wicaksono mengawali ketertarikannya pada seni visual dari komik. Namun seiring berjalannya waktu, ia justru fokus di bidang ilustrasi. Berbagai proyek ia kerjakan untuk editorial, sampul album musik, fan art, merchandise, mural, dan lain sebagainya. Azis juga aktif di berbagai komunitas seperti Karamba Art Movement dan Sodara Jauh Art Initiative. Saat ini Azis bekerja sebagai freelancer dan rajin berkontribusi di dalam proyek nirlaba di kolkas.net, sebuah platform resources grafis yang bisa dimanfaatkan masyarakat secara gratis dengan lisensi creative commons. Salah satu pencapaian dalam hidupnya adalah ketika Azis ikut serta dalam pameran Kopi Keliling pada tahun 2013."
+        },
+        {
+            "identifier": 19,
+            "url": "http://www.kreavi.com/boydozan",
+            "profile": {
+                "name": "Bernardus Boy Dozan",
+                "imageUrl": "foto-kreator/Boy.jpg",
+                "birthDate": "26 July 1991",
+                "origin": "Jakarta",
+            },
+            "category": [55, 56, 57],
+            "portofoilio": [2, 3, 1],
+            "description": "Mencintai game lantas tak membuat Bernardus hanya sebagai pemain saja, tetapi dia berhasil membuktikan dirinya mampu menjadi kreator. Lulusan DKV Petra Surabaya ini mengawali kariernya di industri game dengan bergabung di Khayaland, sebuah studio game developer. Di tahun 2015, lelaki yang akrab disapa Boy ini memberanikan diri untuk mendirikan studionya sendiri bernama Joyseed Gametribe yang telah merilis mobile game “Daydream: the Beginning”. Tak tanggung-tanggung, game besutannya memenangkan penghargaan sebagai Best Game Art 2016 dari Indonesia Indie Game Festival 2016. Tak hanya game mobile, Boy juga mengasah keahliannya di ranah board game dengan “Monas Rush” yang menjadi juara favorit di Kompas Board Game Challenge 2015."
+        },
+        {
+            "identifier": 20,
+            "url": "http://www.kreavi.com/crystalnyam",
+            "profile": {
+                "name": "Brigitta Rena",
+                "imageUrl": "foto-kreator/rena.jpg",
+                "birthDate": "14 July 1991",
+                "origin": "Surabaya",
+            },
+            "category": [58, 59, 60],
+            "portofoilio": [2, 9, 1],
+            "description": "Perempuan lulusan DKV ITS ini merupakan co-founder Mojiken Studio, sebuah studio game developer indie yang berbasis di Surabaya. Sebelumnya, Rena juga pernah tergabung di studio game Elven Games yang telah menghasilkan lebih dari 30 game. Walau berpengalaman di bidang game, Rena juga pernah mengerjakan proyek ilustrasi untuk buku anak, adult coloring book, dan beberapa produk wearable. Kecintaannya pada tanaman membuat setiap artwork miliknya mengandung banyak sentuhan komponen alam. Hal ini tergambar dari “She And The Light Bearer”, game barunya yang digarap bersama Mojiken Studio. Rena juga berhasil menjadi satu-satunya pembicara dari Indonesia di sebuah acara game profesional terbesar di dunia, GDC San Fransisco 2017."
+        },
+        {
+            "identifier": 21,
+            "url": "http://www.kreavi.com/potreyesilly",
+            "profile": {
+                "name": "Candra Permata Dewa | Potr",
+                "imageUrl": "foto-kreator/CANDRA.jpg",
+                "birthDate": "13 February 1991",
+                "origin": "Surakarta",
+            },
+            "category": [61, 62, 63],
+            "portofoilio": [2, 7, 1],
+            "description": "Penyuka tanaman tapi jarang berkebun, penyuka binatang tapi tidak memelihara apapun, ilustrator dan desainer grafis tapi tidak memiliki latar belakang di bidang ini adalah hal yang paling menggambarkan Candra Permata Dewa. Sarjana sains kimia Universitas Diponegoro ini memulai karier sebagai pekerja lepas ilustrator saat masa kuliah. Dia menerima banyak proyek ilustrasi bahkan terkadang proyek mural juga pernah dia dapatkan. Setelah lulus pada tahun 2012, dia sempat bekerja sebagai ilustrator di sebuah Creative House di Yogyakarta. Sekarang Candra bekerja di perusahaan milik negara di bagian rollingstock design development di Bandung sambil terus menjadi pekerja lepas ilustrator dan mural."
+        },
+        {
+            "identifier": 22,
+            "url": "http://www.kreavi.com/cndellen",
+            "profile": {
+                "name": "Cindy Ellen",
+                "imageUrl": "foto-kreator/Cindy-ellen.jpg",
+                "birthDate": "28 October 1993",
+                "origin": "Surabaya",
+            },
+            "category": [64, 65, 66],
+            "portofoilio": [8, 7, 1],
+            "description": "Terdaftar menjadi salah satu mentor Tatarupa batch 4 dan 5, Cindy Ellen menceritakan awal mula dia menyukai hal-hal seputar kuliner yang kemudian ia tuangkan dalam bentuk gambar mini doodling. Dari situ, lulusan Universitas Ciputra jurusan DKV ini langsung jatuh cinta dengan bidang ilustrasi. Tak heran ia mendapatkan beberapa proyek ilustrasi untuk branding. Sejumlah proyek hasil karya Cindy, yaitu berjudul Ecapism, Bellie Button, First Cake, dan Isolution. Sementara Silversalt diganjar sebagai karya yang paling membanggakan bagi Cindy karena berhasil memicu perempuan ini untuk mencoba banyak hal baru dan mendalami vector illustration. Cindy yang kini menjadi desainer grafis lepas bermimpi dalam kurun lima tahun lagi bisa menyebarkan virus semangat kepada anak-anak muda agar tidak takut berkarya di depan umum."
+        },
+        {
+            "identifier": 23,
+            "url": "http://www.kreavi.com/cstefanie",
+            "profile": {
+                "name": "Claren Stefanie",
+                "imageUrl": "http://www.kreavi.com/cstefanie",
+                "birthDate": "1 September 1992",
+                "origin": "Jakarta",
+            },
+            "category": [67, 68, 69],
+            "portofoilio": [7, 1],
+            "description": "Claren seperti punya dua ‘kepribadian’. Di hari-hari kerja, ia aktif sebagai desainer grafis. Sementara di akhir pekan, ia ‘berubah’ menjadi beauty blogger dan ilustrator. Perkara membagi waktu memang bukanlah hal yang mudah, namun Claren tetap membuktikan dedikasinya pada dunia ilustrasi dan desain dengan mendirikan sebuah perkumpulan ilustrasi bersama dua rekannya yang diberi nama 3Cina. Perkumpulan ini aktif berpartisipasi dalam kegiatan kreatif seperti Popcon Asia dan Karoten. Tak hanya itu, karya ilustrasi Claren juga pernah menjadi sampul majalah Sunday Issue edisi Februari 2015."
+        },
+        {
+            "identifier": 24,
+            "url": "http://www.kreavi.com/pipid",
+            "profile": {
+                "name": "Daud Budi Surya Nugraha",
+                "imageUrl": "foto-kreator/Daud-budi.jpg",
+                "birthDate": "14 March 1983",
+                "origin": "Bandung",
+            },
+            "category": [70, 71, 72],
+            "portofoilio": [2, 1, 5],
+            "description": "Mimpi besar Daud adalah membawa kebahagiaan bagi anak-anak. Ia pun berupaya mewujudkannya melalui seni. Pada 2006 Daud merintis kariernya sebagai komikus, lalu ia membuat ilustrasi untuk buku anak Serial Lobu - Lovely Buddies dua tahun kemudian. Selain itu, ia juga merancang aplikasi berbasis iOS, Twinkle & Little Stars, sebuah game musikal untuk balita. Hal luar biasa lainnya, Daud tak sungkan memperkaya pengalamannya dengan menjadi guru TK, sebab baginya ilustrasi saja tak cukup. Anak-anak juga membutuhkan cerita, katanya. Sejak saat itu, Daud mulai aktif menjadi storyboard artist di sebuah studio animasi. Hasilnya, sekarang ia dapat memaksimalkan semua potensi serta tak lupa berkolaborasi dengan banyak orang dalam satu tim untuk menyampaikan cerita yang menarik untuk anak-anak melalui animasi."
+        },
+        {
+            "identifier": 25,
+            "url": "http://www.kreavi.com/dawamr",
+            "profile": {
+                "name": "Dawam R",
+                "imageUrl": "foto-kreator/Dawam-rizqi.png",
+                "birthDate": "7 April 1994",
+                "origin": "Malang",
+            },
+            "category": [73, 74, 75],
+            "portofoilio": [2, 3],
+            "description": "Siapa bilang menghabiskan waktu bermain game itu tidak ada gunanya? Dawam Rizqi atau lebih dikenal dengan nama Dawam R mendalami ketertarikannya pada game dan sekarang berprofesi sebagai Computer Graphics Artist di studio Roh Garuda. Cita-cita terbesarnya adalah membuat game dengan kualitas tinggi yang biasa dia mainkan di komputernya. Bermodalkan video tutorial di internet, Dawam mempelajari bagaimana memproduksi game asset. Masa kuliahnya sebagai mahasiswa DKV juga diwarnai oleh pekerjaan freelance 2D artist untuk board game asset dan ilustrasi kartu. Salah satu pencapaian dalam pembelajarannya di dunia game adalah mendapat kesempatan studi lapangan di Mechanimotion studio di Surabaya untuk mendalami proses pembuatan game 3D. Saat ini Dawam juga aktif di beberapa komunitas kreatif di Malang, seperti CG Squad Malang dan Forum Animasi Malang."
+        },
+        {
+            "identifier": 26,
+            "url": "http://www.kreavi.com/halsacchi",
+            "profile": {
+                "name": "Dimas Novan D",
+                "imageUrl": "foto-kreator/Dimas-novan.jpg",
+                "birthDate": "19 November 1991",
+                "origin": "Surabaya",
+            },
+            "category": [76, 77, 78],
+            "portofoilio": [2, 1],
+            "description": "Dimas yang lahir di Surabaya tahun 1991 ini adalah lulusan Institut Teknologi Sepuluh Nopember jurusan Desain Komunikasi Visual. Sejak 2012, ia rajin menghabiskan waktu di sela waktu kuliah untuk mendalami dunia ilustrasi dan game artist di Elven Games Surabaya. Menetapkan bidang ilustrasi dan game development sebagai fokus utama, Dimas kini bekerja sebagai 2D artist dan animator di Mojiken Studio yang ia dirikan bersama timnya. Penggemar komik dan robot ini sedang disibukkan oleh pembuatan karya game berbasis cerita dengan judul A Space For The Unbound."
+        },
+        {
+            "identifier": 27,
+            "url": "http://www.kreavi.com/thesensorstudio",
+            "profile": {
+                "name": "Dimas Tsani H",
+                "imageUrl": "foto-kreator/Dimas-tsani.jpg",
+                "birthDate": "24 December 1989",
+                "origin": "Jawa Tengah",
+            },
+            "category": [79, 80, 81],
+            "portofoilio": [2, 9, 7],
+            "description": "Dikenal dengan panggilan The Sensor, Dimas sebetulnya tidak bisa menggambar. Untungnya, ia bukan orang yang gampang menyerah. Bersikeras terjun di dunia seni, Dimas melanjutkan pendidikan kuliahnya di Modern School of Design (MSD), sebuah akademi seni rupa dan desain di Yogyakarta. Kemudian Dimas bekerja di sebuah perusahaan jasa desain, di mana ia bertanggung jawab merancang logo dan membuat maskot untuk bisnis UKM. Hasil karyanya pun mendapat tanggapan yang sangat baik hingga berlanjut ke proyek-proyek lain. Tentu saja kesempatan ini semakin mengasah keterampilannya lebih apik lagi. Gaya ilustrasi Dimas biasanya cenderung ke permainan ekspresi, bentuk yang ‘tidak biasa’, dan warna serba cerah."
+        },
+        {
+            "identifier": 28,
+            "url": "http://www.kreavi.com/dimazfakhr",
+            "profile": {
+                "name": "Dimaz Fakhruddin",
+                "imageUrl": "foto-kreator/Dimaz-f.jpg",
+                "birthDate": "7 February 1992",
+                "origin": "Malang",
+            },
+            "category": [82, 83, 84],
+            "portofoilio": [7, 6, 5],
+            "description": "Dimaz memiliki ketertarikan pada tipografi sejak tahun 2010 dan selalu mengulik dunia tipografi digital seperti pembuatan poster, seni vektor, dan lain sebagainya. Eksplorasinya tidak sampai di situ sampai akhirnya Dimaz mulai terjun ke dunia animasi pada 2012 dan dua tahun setelahnya aktif bekerja sebagai ilustrator motion graphic di Bread n’ Beyond basis Surabaya. Animasi yang disutradarainya, “Setengah Lima”, telah menerima beberapa penghargaan seperti Animasi Terbaik Profesional dari INAMAFEST 2016 dan Favorite Movie dari Hellofest Movie 2016. Meski begitu, minat Dimaz pada tipografi ternyata tak padam begitu saja. Ia berkenalan pada dunia hand lettering dan menjuarai Merdekave Hand Lettering 2016, sebuah kompetisi hand lettering."
+        },
+        {
+            "identifier": 29,
+            "url": "http://www.kreavi.com/abusedmember",
+            "profile": {
+                "name": "Dinan Hadyan",
+                "imageUrl": "foto-kreator/dinan.jpg",
+                "birthDate": "2 December 1991",
+                "origin": "Bogor",
+            },
+            "category": [85, 86, 87],
+            "portofoilio": [3, 1],
+            "description": "Aktivitas fangirling Korean Pop (K-pop) ternyata membuahkan keterampilan khusus bagi Dinan. Ia membuktikannya melalui karya-karya ilustrasi yang berkarakter terutama di bidang watercolor. Lulusan FSRD ITB ini mengganti gaya ilustrasi dalam karyanya menjadi lebih realis dibanding sebelumnya yang dipengaruhi oleh animasi Jepang. Karena sering menggambar realis, Dinan semakin menemukan keindahan dalam anatomi manusia. Menurutnya, visual para performer K-pop menunjukkan keseimbangan sisi maskulin dan feminin yang sangat cocok dengan visinya dalam berkarya, yaitu mencapai sebuah keseimbangan. Tak jarang seni buatan Dinan diapresiasi oleh penggemar K-pop internasional dan berhasil membuatnya dikenal sebagai salah satu kreator visual yang terinpirasi dari musikalisasi Korea Selatan dengan nama Abusedmember dan tentunya juga oleh para musisi K-pop seperti Tablo dari Epik High dan Sung Kyu dari Infinite."
+        },
+        {
+            "identifier": 30,
+            "url": "http://www.kreavi.com/djayantiaprilia",
+            "profile": {
+                "name": "Djayanti Aprilia",
+                "imageUrl": "foto-kreator/djayanti-a.jpg",
+                "birthDate": "18 April 1991",
+                "origin": "Surabaya",
+            },
+            "category": [88, 89, 90],
+            "portofoilio": [7, 1],
+            "description": "Bagi Djayanti, seni adalah jalan panjang yang harus diperjuangkan, setidaknya kepada orangtuanya sendiri. Djayanti mulai serius menekuni bidang ini pada pertengahan 2014 setelah merampungkan studi S1. Sebagai bukti keseriusannya, perempuan ini memutuskan untuk belajar menggambar lagi secara intens selama lima bulan. Dia juga mengumpulkan aset karya yang bisa dipamerkan di media sosial. Usaha menekuni bidang desain khususnya ilustrasi setidaknya ia buktikan dengan berbagai penghargaan yang berhasil ia sabet, di antaranya juara 3 Yamaha Mural Competition, Top 10 From Doodle To Mural Contes, dan Top 10 Helmet Competition. Perjalanan karier Djayanti di bidang seni baru dimulai ketika ia bekerja kantoran yang mendorongnya untuk terus mengasah bakat dari satu proyek ke proyek yang lain."
+        },
+        {
+            "identifier": 31,
+            "url": "http://www.kreavi.com/EdCharmain",
+            "profile": {
+                "name": "Edwin Charmain",
+                "imageUrl": "foto-kreator/Edwin-charman.jpg",
+                "birthDate": "7 December 1991",
+                "origin": "Pekalongan",
+            },
+            "category": [91, 92, 93],
+            "portofoilio": [8, 7, 12],
+            "description": "Bernama lengkap Kiang Edwin Charmain, Ed menyelesaikan kuliah jurusan DKV dan mencari pengalaman baru dengan bekerja di Noote & Netoo, sebuah perusahaan desain di Jakarta. Dari studio ini, dia belajar dan menyadari bahwa dirinya sangat menikmati pembuatan karya desain. Setelah hampir dua tahun bekerja, Ed semakin terdorong untuk mengeksplorasi media baru di mana ide-idenya bisa mengambil rupa dan bentuk. Hal ini yang mengantarnya pada seni desain perhiasan dan kerajinan perak. Saat ini Ed sedang melanjutkan program Pascasarjana Seni Desain Perhiasan di London, Inggris. Dia berharap hal ini dapat menambah keterampilan dan kemampuanny di dunia desain."
+        },
+        {
+            "identifier": 32,
+            "url": "http://www.kreavi.com/bykai",
+            "profile": {
+                "name": "Eko Nugroho",
+                "imageUrl": "foto-kreator/Eko-nugroho.jpg",
+                "birthDate": "13 September 1985",
+                "origin": "Semarang",
+            },
+            "category": [94, 95, 96],
+            "portofoilio": [7, 2, 1],
+            "description": "Eko Nugroho Septiyanto atau yang lebih dikenal dengan nama Bykai ini sering mendapat ilham tayangan kartun televisi bergaya vintage era 1950an untuk karya ilustrasinya. Bykai mengawali kariernya melalui berbagai kompetisi ilustrasi t-shirt pada 2010, salah satunya kompetisi desain kaus internasional yang diadakan situs Threadless.com. Dari sini, Bykai mulai dikenal lebih luas di dunia ilustrasi, khususnya desain kaus. Berkat kompetisi ini, desain miliknya masuk di dalam koleksi Marvel Spider-Man. Bykai kini menekuni keahliannya dan bekerja sebagai ilustrator profesional yang tak hanya fokus pada desain kaus, namun juga poster, desain karakter, hingga komik."
+        },
+        {
+            "identifier": 33,
+            "url": "http://www.kreavi.com/vadlicious",
+            "profile": {
+                "name": "Fadli Fitriyan",
+                "imageUrl": "foto-kreator/Fadli-F.JPG",
+                "birthDate": "6 April 1992",
+                "origin": "Cimahi",
+            },
+            "category": [97, 98, 99],
+            "portofoilio": [8, 7, 13],
+            "description": "Fadli mengawinkan dua minat besarnya di dunia seni, yaitu periklanan dan fotografi. Bermula saat ia mengambil pendidikan DKV di ITB pada 2010, kemudian tanpa ragu ia fokus pada ilmu advertising. Seiring menjalani perkuliahan, Fadli mendalami bakat fotografinya menggunakan kamera pertama yang ia beli dari hadiah juara 2 kompetisi Rextreme Rexona Idea and Concept Competition pada 2009. Ia juga aktif mengikuti berbagai komunitas fotografi. Minat desain dan fotografi ini mendorongnya untuk berani mendirikan agensi kreatif bersama beberapa temannya di Bandung bernama TWCX. perusahaannya itu fokus mengerjakan ragam proyek branding, iklan, dan tentu saja fotografi."
+        },
+        {
+            "identifier": 34,
+            "url": "http://www.kreavi.com/LACHI17",
+            "profile": {
+                "name": "Faisal Alim",
+                "imageUrl": "foto-kreator/Faisal-alim.jpg",
+                "birthDate": "17 January 1994",
+                "origin": "Jawa Barat",
+            },
+            "category": [100, 101, 102],
+            "portofoilio": [8, 2, 1],
+            "description": "Pernah melihat poster film Tabula Rasa? Muhammad Faisal Alim merupakan salah satu ilustrator di balik poster film tersebut. Sejak kecil, Faisal hobi menggambar. Hal ini yang membuatnya yakin untuk mendalami bidang desain dan ilustrasi. Ia pun masuk sekolah kejuruan SMK Negeri 1 Kota Bekasi, jurusan multimedia. Keseriusannya dapat dilihat dari berbagai penghargaan yang ia raih di bidang ilustrasi, poster, packaging, hingga animasi. Melanjutkan pendidikan di Universitas Telkom Bandung sebagai mahasiswa DKV, Faisal aktif terlibat dalam komunitas, organisasi, dan pameran. Bersama rekan kerjanya, dia membangun Dassein Graphic Labs, sebuah studio desain di Bandung dengan berbagai macam fokus desain seperti ilustrasi, foto, editorial, dan branding."
+        },
+        {
+            "identifier": 35,
+            "url": "http://www.kreavi.com/monoponik",
+            "profile": {
+                "name": "Faris Naufal",
+                "imageUrl": "foto-kreator/Faris-M.jpg",
+                "birthDate": "12 December 1990",
+                "origin": "Bandung",
+            },
+            "category": [103, 104, 105],
+            "portofoilio": [7, 1, 5],
+            "description": "Anak sulung dari empat bersaudara ini mengaku awalnya tidak tahu ada sebuah profesi bernama desainer grafis. Berbekal ketidaktahuan itu, Faris mengambil jurusan manajemen bisnis saat kuliah. Menghabiskan enam tahun untuk lulus, ia semakin penasaran dengan dunia desain dan memutuskan belajar otodidak. Ia rajin menggambar vector dan langsung memamerkan berbagai karya yang dia buat di platform seperti Facebook, Deviantart, dan Behance. Berkat peran media online, laki-laki asal Yogyakarta ini memperluas pertemanan dan bertemu dengan empat temannya lewat Facebook. Sama-sama menyukai desain sebagai pelipur lara, mereka membentuk studio desain grafis Monoponik berbasis di Bandung pada 2012. Meski sudah ditinggal oleh tiga pendirinya, Faris tetap bertahan sebagai CCO bersama CEO Ahmad Rifqi. Pada 2013, Monoponik berkesempatan menjadi relawan untuk membantu kampanye kreatif calon walikota Bandung. Studio itu sekarang sudah banyak menjalankan puluhan proyek desain untuk UKM dan perusahaan besar."
+        },
+        {
+            "identifier": 36,
+            "url": "http://www.kreavi.com/svpermachine",
+            "profile": {
+                "name": "Fatkur Rokhim",
+                "imageUrl": "foto-kreator/Fatkur-Rokhim.jpg",
+                "birthDate": "20 August 1988",
+                "origin": "Yogyakarta",
+            },
+            "category": [106, 107, 108],
+            "portofoilio": [9, 7, 1],
+            "description": "Sejak pindah ke Yogyakarta, Fatkur mengaku semakin tertarik dengan seni dan desain dan tak ragu untuk bergabung ke komunitas digital art lokal, Jogja Force. Dari situ, Fatkur mulai menggeluti bidang desain grafis dan digital art itu sendiri. Di berbagai kesempatan, lelaki kelahiran Ponorogo ini mengikuti banyak pameran seni bersama Jogja Force dan pameran online dengan komunitas internasional. Sekitar tujuh tahun melakukan eksperimen di dunia desain, Fatkur mencoba beragam pekerjaan, mulai dari desainer grafis di salah satu agensi buku tahunan di Yogyakarta, sampai pekerja lepas untuk berbagai klien berskala global."
+        },
+        {
+            "identifier": 37,
+            "url": "http://www.kreavi.com/goodmorningnight",
+            "profile": {
+                "name": "Febrian Anugrah Wicaksono",
+                "imageUrl": "foto-kreator/Febrian-a.jpg",
+                "birthDate": "23 February 1992",
+                "origin": "Malang",
+            },
+            "category": [109, 110, 111],
+            "portofoilio": [2, 3],
+            "description": "Ketertarikan Febrian pada dunia desain dan ilustrasi diwarisi dari sang Ayah yang juga sering menggambar. Febrian sejak dulu sudah lihai membuat infografis di waktu luangnya. Infografis nyeleneh buatan Febrian cukup banyak mendapatkan perhatian, salah satunya “How To Wear Your Backpack With Style” yang dipublikasikan di situs designtaxi.com. Berkat karyanya, ia berhasil digaet sejumlah perusahaan asal Singapura, Inggris, dan Amerika Serikat untuk bekerja sebagai freelance infographic designer. Kini Febrian fokus menjadi desainer di sebuah perusahaan startup. Lulusan arsitek Universitas Indonesia ini juga pernah menangani infografis untuk Pertamina, sebuah proyek yang ia dapatkan dari Kreavi."
+        },
+        {
+            "identifier": 38,
+            "url": "http://www.kreavi.com/bndisbian",
+            "profile": {
+                "name": "Febrian Fakhri Ramadhan",
+                "imageUrl": "foto-kreator/Febrian-fakhri.jpg",
+                "birthDate": "27 February 1993",
+                "origin": "Bandung",
+            },
+            "category": [112, 113, 114],
+            "portofoilio": [8, 7, 1],
+            "description": "Sejak kecil Febrian hobi menggambar karakter komik Jepang hingga membuatnya bercita-cita menjadi komikus. Namun mimpinya berubah haluan sejak mengenal desain grafis  di masa kuliah. Lulusan DKV di Telkom University ini berkolaborasi dengan teman-temannya untuk mendirikan Dassein Graphic Labs, sebuah studio yang fokus pada branding dan ilustrasi pada 2015. Dassein Graphic Labs sendiri pernah mendapat proyek melalui Kreavi, salah satunya adalah rebranding produk Puro Mung Bean, mulai dari desain logo, desain untuk carrier sampai packaging."
+        },
+        {
+            "identifier": 39,
+            "url": "http://www.kreavi.com/siona",
+            "profile": {
+                "name": "Fiona Priscilla",
+                "imageUrl": "foto-kreator/Fioana.jpg",
+                "birthDate": "26 August 1992",
+                "origin": "Jawa Barat",
+            },
+            "category": [115, 116, 117],
+            "portofoilio": [3, 2, 1],
+            "description": "Fokus perempuan 24 tahun ini melingkupi ilustrator, character design, dan concept art. Berasal dari Kota Kembang alias Bandung, Si Ona sempat mendirikan sebuah studio seni di kampung halaman namun kini ia berkarya secara solo. Menurut Perempuan ini, Kreavi telah banyak membantu dia dalam memperkaya pengalaman. Salah satunya lewat proyek coloring untuk buku cerita anak ciptaan Agnes dan Salem de Bezenac. Ia juga pernah membuat karya berjudul #moments untuk platform Line Webtoon. Pada dasarnya, Si Ona menyukai berbagai macam medium seni, mulai dari karakter, lagu, kostum, film, wahana, hingga festival sekalipun. Tak heran jika dia tertarik berkontribusi untuk pementasan Taraksa, Sunset Diety, konser Ratimaya Sarasvati, dan Pasar Seni ITB tahun 2014."
+        },
+        {
+            "identifier": 40,
+            "url": "http://www.kreavi.com/gawurzart",
+            "profile": {
+                "name": "Galih Pratama",
+                "imageUrl": "foto-kreator/Galih-W.JPG",
+                "birthDate": "31 May 1990",
+                "origin": "Semarang",
+            },
+            "category": [118, 119, 120],
+            "portofoilio": [8, 7, 1],
+            "description": "Galih dulunya pernah menjadi desainer grafis di berbagai perusahaan dan mampu mengasah bakatnya di bidang branding dan fotografi. Selain desain grafis, kini Galih juga bekerja sebagai ilustrator yang berbasis di Semarang. Meski fokus di pekerjaannya, Galih tetap aktif berkontribusi di dalam beberapa proyek seni, mural, dan street art. Ia juga telah mendapat beberapa penghargaan di bidang seni, di antaranya Best 10 in Hai Cover Contest 2012, juara 2 Strive Authentic Design Contest 2012, dan juara 1 Poppo Fan Art Challenge Popcon Asia 2015."
+        },
+        {
+            "identifier": 41,
+            "url": "http://www.kreavi.com/Gunawanlo",
+            "profile": {
+                "name": "Gunawan Lo",
+                "imageUrl": "foto-kreator/gunawanlo.jpg",
+                "birthDate": "7 July 1986",
+                "origin": "Jakarta",
+            },
+            "category": [121, 122, 123],
+            "portofoilio": [2, 7, 1],
+            "description": "Alumnus Universitas Tarumanegara jurusan DKV ini adalah pendiri studio branding dan karakter desain, Loco Studio. Gunawan mengawali kariernya sebagai desainer grafis di Thinking Room dan Waykambas Design, lalu sempat singgah di Singapura selama lima tahun. Karya-karya Gunawan sendiri telah banyak dipublikasikan di beberapa publikasi seperti buku Logo Lounge 8, Crazy Stickers Book, majalah Babyboss, dan Cutout Malaysia. Selain desain, pria kelahiran Jambi ini juga hobi menggambar doodle dan aktif di berbagai proyek sampingan, salah satunya Indozu yang mengusung karakter khas Indonesia dengan tujuan membangun awareness terhadap satwa langka Tanah Air."
+        },
+        {
+            "identifier": 42,
+            "url": "http://www.kreavi.com/hanscj",
+            "profile": {
+                "name": "Hans Christian Japutra",
+                "imageUrl": "foto-kreator/Hans-c.jpg",
+                "birthDate": "29 July 1994",
+                "origin": "Malang",
+            },
+            "category": [124, 125, 126],
+            "portofoilio": [9, 7, 1],
+            "description": "Hobi gambar sejak kecil membuat Hans semakin jatuh cinta bidang ilustrasi. Tak hanya ilustrasi, Hans turut mengeksplorasi bakat desain grafis sesuai jurusan kuliahnya. Salah satu kebiasaan uniknya adalah sering mencoba menggabungkan ilustrasi dan desain grafis agar karyanya lebih menarik. Melalui karya-karyanya, Hans berhasil menyabet juara berbagai kompetisi seperti Graphicon T-shirt 2012, Poster Competition Design Festival 2014, dan masih banyak lagi. Hans membuktikan bahwa passion besarnya itu bisa menghasilkan uang sekaligus. Menurutnya, sebuah karya bukanlah perkara visual yang bagus saja, namun juga tentang kekuatan karya itu mampu menginspirasi orang lain dan berdampak luas."
+        },
+        {
+            "identifier": 43,
+            "url": "http://www.kreavi.com/eggzoo",
+            "profile": {
+                "name": "Hastaning Bagus Penggalih",
+                "imageUrl": "foto-kreator/Hastaning-Bagus.jpg",
+                "birthDate": "29 May 1985",
+                "origin": "Semarang",
+            },
+            "category": [127, 128, 129],
+            "portofoilio": [9, 7, 1],
+            "description": "Bermula dari mengerjakan karya-karya ilustrasi untuk teman, flyer acara indie, dan cover album band lokal, Hastaning memulai kariernya sebagai ilustrator. Lelaki yang lebih akrab dipanggil Galih ini menghasilkan karya-karya yang mayoritas terinspirasi dari gaya hidup dan era pop culture tahun 1960-1980an. Karyanya sudah banyak menerima penghargaan seperti Best Merchandise Illustration Art Threadless asal Chicago, Amerika Serikat pada 2014, Illustration Art for “Thinkcookcook” special edition pada 2013, Best Monthly Illustration and Concept Art “Lafraise” dari Perancis dan Belgia pada tahun 2012 dan 2014."
+        },
+        {
+            "identifier": 44,
+            "url": "http://www.kreavi.com/Hendithamrin",
+            "profile": {
+                "name": "Hendi Thamrin",
+                "imageUrl": "foto-kreator/Hendi-Thamrin.jpg",
+                "birthDate": "26 March 1994",
+                "origin": "Jakarta",
+            },
+            "category": [130, 131, 132],
+            "portofoilio": [7, 3, 13],
+            "description": "Fotografi mungkin menjadi salah satu hal yang paling ia cintai. Mengaku tertarik fotografi sejak duduk di bangku SMA, Hendi baru mulai serius di bidang ini saat masa kuliah. Bersama beberapa teman-temannya dengan hobi serupa, Hendi membuat buku tentang fotografi. Tak berhenti di situ, Hendi dan timnya juga meminta bantuan para dosen kampusnya untuk menggelar pameran fotografi. Deretan inspirasinya untuk membuat karya berasal dari banyak hal yang berada di sekitarnya, seperti bunga cantik penuh warna, kenangan masa kecil, hingga mimpi-mimpinya."
+        },
+        {
+            "identifier": 45,
+            "url": "http://www.kreavi.com/chimankorus",
+            "profile": {
+                "name": "Herman Pawellangi",
+                "imageUrl": "foto-kreator/Herman-p.JPG",
+                "birthDate": "27 October 1992",
+                "origin": "Makassar",
+            },
+            "category": [133, 134, 135],
+            "portofoilio": [9, 7, 1],
+            "description": "Herman yang dikenal dengan nama Chimankorus ini adalah sosok di balik seri ilustrasi indah buku Tidak Ada New York Hari Ini karangan M. Aan Mansyur. Buku itu berisi kumpulan puisi karakter Rangga yang ada di film Ada Apa Dengan Cinta? 2. Ia mengakui, kesempatan kolaborasi dengan Aan Mansyur itu adalah pengalaman yang berharga, karena berhasil memperluas koneksinya dengan para kreator. Keahliannya dalam bidang ilustrasi memang telah berkembang sejak 2008. Chimankorus mengaku, ia sering lupa waktu kalau sudah di depan komputer. Tentu bukan untuk bermain game, tetapi belajar desain di aplikasi Photoshop. Lalu, Herman mengambil jurusan DKV di Universitas Negeri Makassar pada 2011 dan aktif mengerjakan ragam proyek kreatif. Sekarang Herman bekerja sebagai ilustrator di revi.us sembari menjalankan berbagai proyek desain dari dalam maupun luar negeri."
+        },
+        {
+            "identifier": 46,
+            "url": "http://www.kreavi.com/herrysucahya",
+            "profile": {
+                "name": "Herry Sucahya",
+                "imageUrl": "foto-kreator/HerrySucahya.jpg",
+                "birthDate": "17 February 1989",
+                "origin": "Bali",
+            },
+            "category": [136, 137, 138],
+            "portofoilio": [9],
+            "description": "Selagi masih menjadi mahasiswa jurusan Pendidikan Bahasa Inggris, Herry kerap iseng mengolah foto lewat Adobe Photoshop. Tak disangka, Herry malah jatuh cinta dengan dunia desain. Dari situ, Herry terdorong untuk mendalami digital imaging dan desain grafis. Semuanya secara otodidak. Lucunya, Herry banjir order desain dari teman-teman kuliahnya dan merambah sampai ke berbagai pelaku usaha lokal di Singaraja, Bali. Dari deretan pesanan itu, salah satu kliennya adalah instansi pemerintah Denpasar yang kemudian meminta membuat kampanye kreatif untuk Festival Lovina 2015, sebuah acara pemerintah yang tujuannya mempromosikan kebudayaan Buleleng. Lulusan Universitas Pendidikan Ganesha di Bali ini sekarang fokus bekerja sebagai desainer grafis lepas. Kantornya di sebuah studio kecil di Desa Dencarik, Kabupaten Buleleng, Bali yang tak lain adalah kamarnya sendiri."
+        },
+        {
+            "identifier": 47,
+            "url": "http://www.kreavi.com/ihsanahmads",
+            "profile": {
+                "name": "Ihsan Ahmad Syauqi",
+                "imageUrl": "foto-kreator/Ihsan-ahmad.JPG",
+                "birthDate": "13 July 1994",
+                "origin": "Tangerang",
+            },
+            "category": [139, 140, 141],
+            "portofoilio": [7, 1, 4],
+            "description": "Pilihannya bersekolah kejuruan multimedia pada 2008 silam memang tidak salah. Ihsan Ahmad kemudian melanjutkan kuliah jurusan desain produk pada 2011. Dari situ, ia juga belajar tekun tentang vector dan tata letak. Lulus kuliah, Ihsan Ahmad tetap berkarya dan menyabet penghargaan pertamanya dalam gelaran Kontes Inovasi & Infografis #SOLUSIMU yang diadakan oleh Open Government Indonesia & UKP-PPP. Ihsan Ahmad yang kini fokus di bidang desain grafis ini telah menerima banyak proyek dari berbagai perusahaan besar seperti SC Johnson, Greenpeace Indonesia, hingga Bank Indonesia dan Otoritas Jasa Keuangan (OJK)."
+        },
+        {
+            "identifier": 48,
+            "url": "http://www.kreavi.com/ihsanmfarhan",
+            "profile": {
+                "name": "Ihsan Farhan",
+                "imageUrl": "foto-kreator/Ihsan-Farhan.jpg",
+                "birthDate": "27 April 1992",
+                "origin": "Bandung",
+            },
+            "category": [142, 143, 144],
+            "portofoilio": [8, 7, 6],
+            "description": "Ketertarikan Ihsan di dunia desain berawal saat ia mengikuti program magang di Visious Studio yang dimentori oleh Rege Indrastudioanto dan Radhinal Indra pada 2013 lalu. Setelah lulus dari jurusan DKV di ITENAS tahun 2014, Ihsan bekerja sebagai art director di Monopik Studio. Tak lama setelah itu, Ihsan memutuskan membangun startup branding studio bernama POT Brandinghouse bersama sejumlah teman-teman kuliahnya, Kresna Akhmadi, Aulia Akbar, dan Tazul Arifin. Keseriusannya di bidang seni berhasil menorehkan beberapa prestasi, di antaranya medali emas untuk penghargaan Best Poster Campaign, medali perunggu untuk Direct Message Design dari Layar Kencana Awards, dan dinobatkan sebagai Karya Simbiotik Terbaik dari KMDGI X."
+        },
+        {
+            "identifier": 49,
+            "url": "http://www.kreavi.com/IndahSiregar",
+            "profile": {
+                "name": "Indah Alditha Putri Siregar",
+                "imageUrl": "foto-kreator/Indah-alditha.jpg",
+                "birthDate": "12 April 1994",
+                "origin": "Medan",
+            },
+            "category": [145, 146, 147],
+            "portofoilio": [2, 3],
+            "description": "Seperti kebanyakan orang, Indah hobi menggambar sejak kecil. Saat kelas 4 SD, Indah semakin rajin mengasah hobinya itu berkat komik-komik yang sering ia baca. Lucunya, Indah mengambil jurusan Manajemen Fakultas Ekonomi dan Bisnis di Universitas Sumatera Utara yang sama sekali tidak berhubungan dengan aktivitas seni kegemarannya. Semangatnya tidak pernah pudar, Indah tetap menggambar di waktu luangnya. Melalui media sosial, ia banyak belajar ilustrasi dan akhirnya memutuskan untuk berganti haluan dari gaya manga ke semi realist painting hingga saat ini. Indah juga aktif mengikuti kompetisi online dan menyabet beberapa penghargaan seperti 1st Silver Winner Kompetisi Komik Indonesia 2013 untuk komik Keluar Saung dan Poster Terbaik III Usmar Ismail Movie Poster Remake Challenge dalam perayaan Hari Film Nasional 2016. Sejak 2011 sampai sekarang, Indah berprofesi sebagai ilustrator lepas dan desainer grafis."
+        },
+        {
+            "identifier": 50,
+            "url": "http://www.kreavi.com/indratw",
+            "profile": {
+                "name": "Indra Triwahyudy",
+                "imageUrl": "foto-kreator/indra-t.jpg",
+                "birthDate": "20 July 1981",
+                "origin": "Yogyakarta",
+            },
+            "category": [148, 149, 150],
+            "portofoilio": [14, 8, 1],
+            "description": "Hobi menggambar dan memenangkan sejumlah lomba ketika SD, membuat Indra mulai menggemari bidang kreatif. Pria kelahiran 1981 ini memulai kariernya sejak tahun 2005 dengan bekerja di biro iklan Petak Umpet. Walau tidak memiliki latar belakang pendidikan kreatif, lulusan Hubungan Internasional ini sudah banyak menorehkan berbagai prestasi pada Pinasthika Award 2005 untuk iklan layanan masyarakat anti rokok. Eksplorasinya tidak sebatas itu, pada tahun 2007 Indra bersama Erwan Sudiwijaya mendirikan Bajigur, sebuah majalah desain grafis berbentuk PDF. Bersama Bajigur, dia mendapatkan penghargaan medali emas Pinasthika Award 2008. Saat ini Indra adalah seorang desainer lepas yang juga telah mendirikan studio desainnya sendiri bernama Koyoiki."
+        },
+        {
+            "identifier": 51,
+            "url": "http://www.kreavi.com/ipungkurniawan",
+            "profile": {
+                "name": "Ipung Kurniawan",
+                "imageUrl": "foto-kreator/ipung-kurniawan.png",
+                "birthDate": "17 June 1984",
+                "origin": "Surakarta",
+            },
+            "category": [151, 152, 153],
+            "portofoilio": [15, 2, 1],
+            "description": "Dengan keluwesan tangannya, Ipung mampu menghadirkan tokoh wayang ‘kekinian’ dalam bentuk seni vektor yang menawan. Karyanya ini mampu menyabet juara 2 dalam lomba desain kaos Wayang dan Kita pada tahun 2011. Tak hanya itu, Ipung juga pernah memenangkan juara 3 untuk lomba logo branding Bantul. Pria kelahiran tahun 1984 ini meyakini bahwa menjadi ilustrator dan desainer grafis adalah salah satu cara mensyukuri anugerah Tuhan. Menurutnya, pekerjaan ini tak hanya dituntut untuk menghasilkan visualisasi indah tetapi juga cita rasa yang mampu menyentuh emosi, mengubah presentasi, dan bahkan mempermainkan persepsi serta pola pikir manusia. 13 tahun menekuni bidang ini, Ipung juga mengasah kemampuannya dengan cara bersosialisasi. Sebut saja JogjaForce, salah satu komunitas seni digital berpengaruh di Yogyakarta yang Ipung ikuti. Mantan art director DAMN! I Love Indonesia ini sekarang aktif menjadi ilustrator lepas dan juga dosen di salah satu perguruan tinggi swasta di Yogyakarta."
+        },
+        {
+            "identifier": 52,
+            "url": "http://www.kreavi.com/iracarellafoto-kreator/Ira-carella.jpg",
+            "profile": {
+                "name": "Ira Carella",
+                "imageUrl": "foto-kreator/Ira-carella.jpg",
+                "birthDate": "9 May 1993",
+                "origin": "Bandung",
+            },
+            "category": [154, 155, 156],
+            "portofoilio": [7, 1, 6],
+            "description": "Kecintaannya di bidang seni dan desain sudah berawal sejak duduk di sekolah dasar. Saat itu, Ira bergabung ke sanggar gambar Rumah Seni Adhi Cipta. Meski sempat berhenti di masa SMP, Ira kembali aktif di sanggar hingga lulus SMA. Memasuki jenjang perguruan tinggi, Ira mengambil jurusan FSRD di Intitut Teknologi Bandung (ITB). Dari sanalah Ira mengembangkan kemampuan desain grafis dan berhasil diganjar rangkaian penghargaan, di mana tiga di antaranya dari Layang Kancana Muda 2011 untuk kategori desain grafis logo (gold), poster (silver), dan packaging (bronze). Dia juga menjadi semi-finalis untuk Adobe Design Achievement Award 2015. Dalam perjalanan berkarya, Ira memiliki idola yang menjadi inspirasi yaitu Alm. Priyanto Sunarto, dosennya sendiri. Perempuan kelahiran 1993 ini selalu berusaha untuk menerapkan cara berpikir sang dosen untuk terus berani bereksplorasi dan tidak takut salah. Saat ini Ira tak hanya bekerja sebagai desainer grafis lepas dan ilustrator, namun juga paruh waktu sebagai project manager untuk sebuah perusahaan e-commerce di Singapura yang ia kerjakan secara remote dari Indonesia."
+        },
+        {
+            "identifier": 53,
+            "url": "http://www.kreavi.com/isdijonoo",
+            "profile": {
+                "name": "Isdijono Chandra",
+                "imageUrl": "foto-kreator/Isdijono-c.jpg",
+                "birthDate": "20 November 1992",
+                "origin": "Surabaya",
+            },
+            "category": [157, 158, 159],
+            "portofoilio": [8, 7, 6],
+            "description": "Peran Isdijono di dunia seni seakan tidak perlu diragukan lagi. Beragam prestasi berhasil ia capai, seperti juara 3 Kreavi Challenge Cities of Heroes, juara 1 desain sampul buku, dan juara 2 desain grafiti. Isdijono sendiri memulai karier sebagai pekerja lepas di bidang fotografi dan desain grafis. Inspirasi lain datang saat ia duduk di bangku kuliah dan mengenal identity serta brand. Dari situ, ia mulai beralih menekuni bidang branding. Saat ini, Isdijono bekerja sebagai konsultan brand yang juga merangkap creative director untuk BrandPartner Indonesia dan dosen di Universitas Ciputra untuk mata kuliah Corporate Identity & Packaging Design."
+        },
+        {
+            "identifier": 54,
+            "url": "http://www.kreavi.com/ivannacerelia",
+            "profile": {
+                "name": "Ivanna Cerelia Suryo",
+                "imageUrl": "foto-kreator/Ivanna-c.jpg",
+                "birthDate": "30 December 1990",
+                "origin": "Jakarta",
+            },
+            "category": [160, 161, 162],
+            "portofoilio": [8, 7, 1],
+            "description": "Perempuan asal Surakarta ini berkarya di bidang desain sejak 2012. Dia telah mengerjakan banyak proyek dengan berbagai bidang ilmu seperti visual identity, grafis lingkungan, editorial, ilustrasi, dan mural. Setelah lulus kuliah dengan jurusan Desain Grafis, Ivanna sempat magang di beberapa studio di Jakarta. Sekarang Ivanna bekerja sebagai desainer grafis lepas dengan berbagai penghargaan, salah satunya menjadi semifinalis untuk Adobe Design and Achievement Award 2014 dan karyanya masuk ke dalam buku Top Graphic Design III: Brochure and Layout."
+        },
+        {
+            "identifier": 55,
+            "url": "http://www.kreavi.com/jefrynovian",
+            "profile": {
+                "name": "Jefry Novian Abrianto",
+                "imageUrl": "foto-kreator/Jefry-Novian.jpg",
+                "birthDate": "27 November 1991",
+                "origin": "Jawa Timur",
+            },
+            "category": [163, 164, 165],
+            "portofoilio": [16, 8, 7],
+            "description": "Jefry mulai mendalami desain sejak kuliah di jurusan Desain Grafis di Universitas Negeri Surabaya, kemudian melanjutkan pendidikan ke Universitas Negeri Malang dengan fokus DKV. Usai kuliah, Jefry aktif di berbagai acara, kompetisi, dan organisasi desain. Tak lupa, ia juga kerap menyabet sejumlah penghargaan, salah satunya Asean Task Force on Aids Poster Competition. Pencapaiannya itu ia anggap sebagai titik awal dari petualangannya di dunia seni dan desain."
+        },
+        {
+            "identifier": 56,
+            "url": "http://www.kreavi.com/jessicaedina",
+            "profile": {
+                "name": "Jessica Edina",
+                "imageUrl": "foto-kreator/Jessica-Edina.jpg",
+                "birthDate": "7 November 1992",
+                "origin": "Surabaya",
+            },
+            "category": [166, 167, 168],
+            "portofoilio": [16, 7, 17],
+            "description": "Alumnus Universitas Kristen Petra di Surabaya ini menjadi salah satu desainer Indonesia yang berpartisipasi di kompetisi Asia Students Package Design Competition (ASPaC) tahun 2014 lalu. Menggeluti desain grafis, Jessica menelurkan karya packaging berjudul Witrove, sebuah produk tas dari bahan eceng gondok ketika ia menjalani Tatarupa batch 2. Witrove pun berhasil terpilih menjadi buah tangan pada acara UN Habitat PREPCOM III di Surabaya pada 2016. Saat ditanya apa karya favorit perempuan ini, Classie Spiku menjadi pilihan Jessica. Alasannya, karya itu telah melalui banyak riset dan pengembangan dari segi packaging dan konsep. Tak heran jika ia ingin mendalami bidang packaging agar bisa menjadi profesional di bidang tersebut."
+        },
+        {
+            "identifier": 57,
+            "url": "http://www.kreavi.com/JulianitaLim",
+            "profile": {
+                "name": "Julianita Limbajaya",
+                "imageUrl": "foto-kreator/Julianita.jpg",
+                "birthDate": "8 January 1993",
+                "origin": "Jakarta",
+            },
+            "category": [169, 170, 171],
+            "portofoilio": [7, 1, 4],
+            "description": "Ayah Julianita sering membelikan buku untuk menggambar komik. Bakatnya terasah dari situ dan sempat membuatnya yakin kelak menjadi seorang komikus. Hobi menggambar terus berlanjut hingga di jenjang SMA. Menuju kelulusan, perempuan yang akrab disapa Acu ini memilih jurusan untuk kuliah yang masih ada hubungannya dengan menggambar, yaitu DKV. Lulus di tahun 2014, Julianita menjalani program magang di KIBAR untuk membantu proyek-proyek Google. Sejak saat itu, ia mengaku semakin cinta dengan fokus ilustrasi. Karya kebanggaannya adalah logo yang ia buat untuk festival teknologi Google HackFair pada Desember 2015. Tak hanya dipasang untuk Indonesia saja, tapi juga Pakistan, Thailand, dan Korea Selatan. Walaupun keluarga besarnya memiliki bisnis turun-menurun dari kakeknya, Julianita akan tetap fokus di dunia ilustrasi dan bermimpi membangun perusahaannya sendiri yang menggabungkan ilustrasi dengan infografis. Selain itu, Julianita mengaku tertarik belajar seni handcrafting di masa depan."
+        },
+        {
+            "identifier": 58,
+            "url": "http://www.kreavi.com/Larascream",
+            "profile": {
+                "name": "Larasati",
+                "imageUrl": "foto-kreator/Laras.jpg",
+                "birthDate": "18 February 1993",
+                "origin": "Surabaya",
+            },
+            "category": [172, 173, 174],
+            "portofoilio": [3, 7, 13],
+            "description": "Sebagai anak muda pada umumnya, Larasati mengikuti perkembangan tren. Perempuan kelahiran Bontang, Kalimantan Timur ini kemudian jatuh cinta pada dunia fashion and beauty, serta fotografi. Setelah ia lulus dari studi DKV di ITS, Larasati mengikuti program magang di The Loop Indonesia. Di sana ia bertemu sejumlah fotografer kondang Tanah Air seperti Sam Nugroho, Sury Thoeng, dan Hendra Kusuma. Kemudian ia berkesempatan mengadakan pameran di Pret Art Porter, Yogyakarta pada 2015 dan mengisi bagian editorial kecantikan untuk majalah Clara. Kepercayaan dirinya kian bertambah, ia semakin aktif menggelar pameran seni dan mengisi berbagai talk show tentang fashion photography hingga branding commercial campaign di Surabaya seperti Rever Academy. Salah satu fakta menarik darinya, Larasati menutup tahun 2016 dengan suka cita karena karya fotografinya membantu branding Ariska Putri Pertiwi sebagai perwakilan Indonesia yang memenangkan Miss Grand International 2016."
+        },
+        {
+            "identifier": 59,
+            "url": "http://www.kreavi.com/leovir",
+            "profile": {
+                "name": "Leo Vir",
+                "imageUrl": "foto-kreator/Leovir.jpg",
+                "birthDate": "21 September 1994",
+                "origin": "Jakarta",
+            },
+            "category": [175, 176, 177],
+            "portofoilio": [13],
+            "description": "Berawal dari kelas fotografi di salah satu universitas di Jakarta, Leo Vir berhasil mendapat amunisi semangat untuk menggelar pameran grup pertamanya dengan tajuk “Lucid” pada 2015. Tampak ketagihan, dirinya kembali mengadakan pameran tunggal bernama “Semerbak” satu tahun kemudian. Leo Vir kini meniti karier sebagai kreator visual yang sudah dijalani selama dua tahun dengan fokus ilustrasi, fashion, dan fotografi."
+        },
+        {
+            "identifier": 60,
+            "url": "http://www.kreavi.com/ghozai",
+            "profile": {
+                "name": "Manzur Ghozaali",
+                "imageUrl": "foto-kreator/Manzur-Ghozaali.jpg",
+                "birthDate": "10 November 1990",
+                "origin": "Bandung",
+            },
+            "category": [178, 179, 180],
+            "portofoilio": [7, 1, 6],
+            "description": "Sembari kuliah jurusan DKV di Universitas Negeri Malang pada 2009, Manzur juga mendalami ilustrasi berbasis vector. Kemudian ia aktif mengikuti banyak kompetisi dan keluar sebagai juara. Deretan penghargaannya adalah juara 3 desain kaus dari Okezone Love Indonesia dan juara 4 Kreavi Challenge: Desain T-shirt, Tunjukan Semangat Sepak Bola Indonesia. Seiring berjalannya waktu, Manzur juga belajar animasi dan kini ia bekerja di studio desain dan motion graphic di Bandung."
+        },
+        {
+            "identifier": 61,
+            "url": "http://www.kreavi.com/Emarudesign",
+            "profile": {
+                "name": "Marvin Ade Santoso",
+                "imageUrl": "foto-kreator/Marvin-Ade.jpg",
+                "birthDate": "4 April 1991",
+                "origin": "Surabaya",
+            },
+            "category": [181, 182, 183],
+            "portofoilio": [8, 7, 6],
+            "description": "Desainer di Maru Design ini juga seorang dosen di bidang DKV dengan fokus branding produk. Marvin beberapa kali membantu program Tatarupa dan menjadi mentor hingga batch 5. Lelaki yang hobi makan ini mengaku sangat bangga terhadap proyek yang dia kerjakan bernama Ombre karena erat dengan aksi sosialnya kala itu, yakni membantu para ibu yang terjun di bisnis ranah UMKM di Surabaya. Lulusan Universitas Kristen Petra ini dalam waktu lima tahun ke depan bermimpi bisa membangun startup di bidang branding and design yang fokus menyelaraskan antara brand dengan bisnis yang dimiliki oleh si klien."
+        },
+        {
+            "identifier": 62,
+            "url": "http://www.kreavi.com/Maya",
+            "profile": {
+                "name": "Maya Soetanto",
+                "imageUrl": "foto-kreator/Maya-Soetanto.JPG",
+                "birthDate": "17 April 1992",
+                "origin": "Surabaya",
+            },
+            "category": [184, 185, 186],
+            "portofoilio": [8, 7, 17],
+            "description": "Kebiasaan unik perempuan ini adalah bekerja dari tengah malam hingga fajar menyongsong. Alasan perempuan ini sederhana, waktu tersebut menjadi langganan ide briliannya datang menghampiri. Maya lulus dari Sekolah Tinggi Teknik Surabaya jurusan DKV. Kreasi yang dia ciptakan tertuang langsung dari bisnis yang di dirikan olehnya, @paperonettegift yang bisa dijumpai di Instagram. Rajin berkontribusi sebagai mentor Tatarupa, ada satu karya kebanggaan Maya, yaitu buku bergambar Gerak Ajaib Tari Golek Sri Rejeki. Menurut Maya, buku itu menarik karena menggunakan teknis barrier grid animation untuk memvisualisasikan sebelas gerakan dasar tarian. Maya yang ingin mendalami dunia desain grafis ini berharap bahwa karya buku bergambar yang dia buat bisa menjadi salah satu media untuk pelestarian budaya lokal Indonesia."
+        },
+        {
+            "identifier": 63,
+            "url": "http://www.kreavi.com/nataliapek",
+            "profile": {
+                "name": "Natalia Pek",
+                "imageUrl": "foto-kreator/Natalia-pek.jpg",
+                "birthDate": "13 December 1990",
+                "origin": "Jawa Timur",
+            },
+            "category": [187, 188, 189],
+            "portofoilio": [3, 9, 13],
+            "description": "Natalia mengaku suka mengamati karya-karya fotografer fesyen terkenal di dunia, Zhang Jingna atau yang lebih dikenal dengan nama Zemotion. Kemudian Zemotion menjadi role model-nya untuk turut fokus di dunia fotografi. Bermodal kamera DSLR pemberian orangtua sebagai kado ulang tahun, Natalia memulai karier sebagai fotografer fesyen dan foto profil di Surabaya. Setelah lulus dari DKV Ciputra, Natalia melanjutkan pendidikan ke Korea Selatan pada tahun 2016. Di tengah masa perkuliahan di Negeri Ginseng, Natalie menemukan personal style dan mulai membangun portofolio setelah enam tahun sering mengubah gaya fotografinya. Dalam berkarya, Natalie selalu terinspirasi dari segala jenis seni, mulai dari lukisan sampai ke tarian dan musik."
+        },
+        {
+            "identifier": 64,
+            "url": "http://www.kreavi.com/novitaelisa",
+            "profile": {
+                "name": "Novita Elisa Fahmi",
+                "imageUrl": "foto-kreator/Novita-elisa.jpg",
+                "birthDate": "14 October 1991",
+                "origin": "Bandung",
+            },
+            "category": [190, 191, 192],
+            "portofoilio": [7, 1, 6],
+            "description": "Novita Elisa Fahmi adalah seorang ilustrator dan desainer grafis yang tinggal di Bandung, Jawa Barat. Berbagai karya yang dihasilkan Novita kerap terinspirasi dari detail budaya tanah air Indonesia. Pertama kali mengenal desain komunikasi visual ketika ia melakukan pertukaran pelajar ke Amerika saat SMA. Semenjak itu, dia memutuskan untuk menempuh S1 dan S2 di Institut Teknologi Bandung. Dari sana, Novita menyadari sebagian besar ketertarikannya berada di dunia ilustrasi, desain grafis, dan tipografi. Novita juga pernah melakukan kerja praktik di salah satu studio kreatif di Jakarta yang fokus pada desain packaging. Selain itu, ia pernah memenangkan beberapa penghargaan seperti Reka Baru Desain Indonesia 2014 dari Kementerian Pariwisata dan Ekonomi (sekarang BEKRAF) dan berkesempatan mengikuti London Design Week."
+        },
+        {
+            "identifier": 65,
+            "url": "http://www.kreavi.com/Okthianetjitasura",
+            "profile": {
+                "name": "Okthiane Tjitasura",
+                "imageUrl": "foto-kreator/Okthiane-Tjitasura.jpg",
+                "birthDate": "22 November 1993",
+                "origin": "Jakarta",
+            },
+            "category": [193, 194, 195],
+            "portofoilio": [8, 7, 1],
+            "description": "Okthiane Tjitasura adalah perancang yang menggeluti bidang desain grafis dan fesyen. Walau tidak belajar secara profesional mengenai fesyen, Okthiane percaya diri untuk unjuk gigi melalui Fashion Design GoGirl! Phenomenon 2013 dan IKEA Indonesia Uniform Competition 2014. Lulusan DKV Universitas Pelita Harapan ini mengemban ilmu fashion design di BUNKA School of Fashion Japan (Indonesia Branch). Kemudian pada tahun 2016 perempuan yang akrab disapa Anne ini bekerja di perusahaan bidang fesyen. Di sana dia berperan sebagai desainer grafis dan fashion design assistant membantu mendesain baju untuk perempuan, dan juga berkesempatan membuat total branding untuk POSH, salah satu merek fashion e-commerce."
+        },
+        {
+            "identifier": 66,
+            "url": "http://www.kreavi.com/Olvyanda",
+            "profile": {
+                "name": "Olvyanda Ariesta",
+                "imageUrl": "foto-kreator/Olyvanda-a.JPG",
+                "birthDate": "27 June 1989",
+                "origin": "Jambi",
+            },
+            "category": [196, 197, 198],
+            "portofoilio": [2, 1],
+            "description": "“Ilustrator spesialis horor dan misteri” mungkin adalah gambaran yang sering diterima Olvyanda atas karyanya yang penuh warna pucat dan sentuhan misteri yang terkesan melankolis. Olvyanda mengawali kariernya sebagai ilustrator pada tahun 2011 dengan membuat ilustrasi sampul buku untuk Fantasteen dari penerbit Mizan sampai sekarang. Dia juga pernah mengerjakan sampul Spooky Stories terbitan Noura dari 2013 sampai 2015 dan buku-buku dari Gramedia Pustaka Utama hingga sekarang. Selain ilustrator, Olvyanda juga dikenal sebagai seorang komikus. Keahliannya yang satu ini sudah tidak diragukan lagi. Beberapa kali Olvyanda memenangkan penghargaan seperti Exellence Winner Silent Manga Audition 2013 untuk komiknya yang berjudul Miaw Miaw, Exelleence Winner Silent Manga Audition 2014 untuk The Dandelion Smile, juara dua Kompetisi Komik Indonesia pada tahun 2012 dan 2014, dan menjadi salah satu perwakilan Indonesia yang diundang ke Jepang untuk menghadiri Masterclass Silent Manga Audition pada 2015. Semua komiknya pun dapat dibaca online. Tak puas, dia bersama Alex Irzaqi menerbitkan komik berjudul Dark Mate: Darakht & Murder Ballad terbitan Mizan pada 2016. Saat ini Olvyanda juga berprofesi sebagai staf pengajar DKV di FSRD ISI Padang Panjang. Dia berharap dapat berbagi ilmu yang dia miliki untuk para calon kreator masa depan."
+        },
+        {
+            "identifier": 67,
+            "url": "http://www.kreavi.com/pangketepang",
+            "profile": {
+                "name": "Papang Jakfar",
+                "imageUrl": "foto-kreator/Papang-Jakfar.jpg",
+                "birthDate": "20 January 1987",
+                "origin": "Jawa Timur",
+            },
+            "category": [199, 200, 201],
+            "portofoilio": [2, 3, 1],
+            "description": "Disney, batik, dan wayang adalah tiga hal yang mempengaruhi gaya ilustrasi Papang Jakfar. Gaya dekoratif, detail, dan cartoon menjadi ciri khas yang selalu ada dalam karya-karyanya. Alumnus DKV Universitas Negeri Malang ini mengawali kariernya pada tahun 2007 dengan membuat ilustrasi, komik, dan desain karakter untuk game dan animasi. Dia juga pernah bekerja sebagai ilustrator untuk Helliger Studio, sebuah studio ilustrasi di Malang sebelum memutuskan menjadi visual artist lepas. Beberapa karyanya juga masuk ke dalam art book kompilasi seniman internasional seperti Megaman Tribute Artbook (2011), Street Fighter 25th Anniversary Tribute Art (2012), World of Warcraft Tribute (2013), dan Capcom Fighting Tribute Artbook (2015). Baru-baru ini Papang juga memenangkan kompetisi maskot Kota Malang yang diadakan oleh Badan Perencanaan Daerah (Bappeda) Kota Malang untuk karakternya yang bernama “Osi dan Ji”. Pada 16 Desember 2016, karakter buatan Papang ini resmi menjadi maskot Kota Malang."
+        },
+        {
+            "identifier": 68,
+            "url": "http://www.kreavi.com/pikapoppin",
+            "profile": {
+                "name": "Priska Susanto(Pikapoppin)",
+                "imageUrl": "foto-kreator/Priska-Susanto.jpg",
+                "birthDate": "8 December 1988",
+                "origin": "Surabaya",
+            },
+            "category": [202, 203, 204],
+            "portofoilio": [1],
+            "description": "Kesulitan yang dialami para ilustrator lepas pada umumnya ternyata juga dirasakan Priska yang seringkali mendapat desakan untuk bekerja kantoran agar “terlihat bekerja”. Dengan tekad kuat, Priska terus menekuni dunia ilustrasi terutama watercolor yang menjadi spesialisasinya. Lulusan DKV Universitas Kristen Petra Surabaya ini sudah menekuni watercolor sebelum booming seperti sekarang. Hal ini sangat menggambarkan pribadi Priska yang cukup idealis dalam berkarya. Jenjang karir Priska dalam dunia ilustrasi mulai terasa saat mendapat tawaran menjadi asisten Bobsmade, customer artist asal Jerman yang ia idolakan sejak lama. Menjadi asisten Bobsmade selama 3 tahun secara online diakuinya menjadi pengalaman berharga dan mampu membuat Priska berkembang di dunia seni. Saat ini Priska kerap menerima tawaran menjadi pembicara di kelas umum, kursus, dan workshop yang khusus membahas teknik watercolor."
+        },
+        {
+            "identifier": 69,
+            "url": "http://www.kreavi.com/bodilpunk",
+            "profile": {
+                "name": "Rahadil Hermana",
+                "imageUrl": "foto-kreator/Rahadil-Putra.jpg",
+                "birthDate": "31 January 1991",
+                "origin": "Malang",
+            },
+            "category": [205, 206, 207],
+            "portofoilio": [2, 3, 1],
+            "description": "Bermula dari permintaan beberapa teman untuk membuatkan ilustrasi desain t-shirt band mereka di sebuah Komunitas Musik Underground di pertengahan tahun 2012. Bodil, sapaan akrab Rahadil Hermana pun akhirnya terjun ke dunia seni visual meski saat itu dia belum menganggap serius pekerjaan tersebut. Sampai ke pertengahan tahun 2013, Rahadil menjadi juara pertama Kreavi Challenge “Desain T-Shirt, Tunjukan Semangat Sepak Bola Indonesia” yang mana menjadi jalan awal buat Bodil masuk ke industri desain t-shirt. Dari situ, karier Bodil mulai terangkat. Sekarang Bodil makin banyak bertemu klien-klien dari berbagai macam negara. Sampai saat ini, kurang lebih Rahadil telah memiliki 80 klien yang rata-rata terdiri dari perusahaan clothing, apparel, skateboard atau longboard sampai  band management. Band populer Amerika, seperti Foo Fighters adalah salah satu klien terbesarnya. Di tahun 2017 ini, Rahadil bersama adiknya akan mendirikan studio desain berbasis ilustrasi, bernama Dotstruction Studio. Mereka berharap, studio yang mereka dirikan ini bisa menjadi salah satu pioneer studio ilustrasi dan sebagai penggerak motor industri kreatif di Kota Malang."
+        },
+        {
+            "identifier": 70,
+            "url": "http://www.kreavi.com/circas",
+            "profile": {
+                "name": "Raisa Ramdani",
+                "imageUrl": "foto-kreator/Raisa-Ramdani.jpg",
+                "birthDate": "3 March 1994",
+                "origin": "Jawa Barat",
+            },
+            "category": [208, 209, 210],
+            "portofoilio": [8, 7, 1],
+            "description": "Raisa Ramdani adalah Desainer Grafis, Ilustrator, dan Brand Identity Manager yang mengkoordinasikan setiap aspek seni dan desain di House The House Design Studio. Lulusan desain komunikasi visual ITENAS ini mulai menyadari memiliki ketertarikan pada dunia seni sejak usia 7 tahun saat dia bersenang-senang dengan buku menggambarnya. Selain itu, Raisa juga hobi memasak. Menurut Raisa, desain dan meramu makanan cukup mirip seperti menyusun beberapa elemen grafis menjadi sesuatu estetika, bermakna, dan memiliki tujuan. Sebelum bekerja sebagai desainer grafis di House The House, Raisa juga pernah bekerja di Visious Studio dan menjadi pekerja lepas untuk Monoponik Studio. Di akhir pekan, Raisa banyak menyibukkan diri dengan menjadi pekerja lepas, dan proyek sampingan yang membuat berbagai undangan dan alat-alat tulis."
+        },
+        {
+            "identifier": 71,
+            "url": "http://www.kreavi.com/rakhmatjaka",
+            "profile": {
+                "name": "Rakhmat Jaka Perkasa",
+                "imageUrl": "foto-kreator/Rakhmat-jaka.jpg",
+                "birthDate": "27 June 1994",
+                "origin": "Kalimantan Selatan",
+            },
+            "category": [211, 212, 213],
+            "portofoilio": [7, 1, 6],
+            "description": "Mengenal dunia seni dan desain dari sebuah program di stasiun televisi khusus musik yang mempertontonkan video klip urban dengan bermacam grafiti di dinding, Jaka memberanikan diri membuat grafiti di belakang rumahnya dan mulai memperluas pertemanan dengan orang-orang dengan hobi yang sama. Kemampuannya semakin terasah ketika sang ayah membawa komputer Pentium III. Ia langsung berpikir bagaimana membuat konsep grafiti menggunakan komputer. Berkat informasi dari teman kakaknya, Jaka pun mengenal software dan mulai mempelajarinya dari buku-buku tutorial pemberian ayahnya. Pekerjaan desain pertama yang Jaka dapatkan adalah dari status Friendster sebuah distro lokal yang kala itu membutuhkan desainer lepas. Dibayar Rp40 ribu per desain saat kelas 3 SMP adalah suatu pencapaian tersendiri bagi Jaka. Kliennya pun kian bertambah baik dari dalam negeri maupun mancanegara. Pada tahun 2012 Jaka merantau ke Yogyakarta untuk kuliah. Dia menemukan orang-orang hebat di berbagai seni dan desain yang membuatnya semakin terpacu untuk bisa lebih baik lagi."
+        },
+        {
+            "identifier": 72,
+            "url": "http://www.kreavi.com/NJAWANI",
+            "profile": {
+                "name": "Rakhmat Tri - NJAWANI",
+                "imageUrl": "foto-kreator/Njawani.jpg",
+                "birthDate": "13 January 1986",
+                "origin": "Yogyakarta",
+            },
+            "category": [214, 215, 216],
+            "portofoilio": [2, 7, 1],
+            "description": "Berawal dari keresahannya dengan kebudayaan tradisional yang semakin tenggelam khususnya budaya Jawa di kalangan anak muda, Rakhmat Tri basuki atau yang akrab disapa Gepeng terdorong untuk mendirikan studio NJAWANI. Dengan latar belakang desain komunikasi visualnya, Gepeng mengubah pola pikir budaya tradisional yang kuno menjadi kekinian dalam bentuk produk t-shirt dan merchandise. Pada tahun 2012, t-shirt NJAWANI berjudul “Kenyataan Harus Digambarkan” yang mengangkat tema korupsi mendapat penghargaan GOLD Pinasthika. NJAWANI disambut baik oleh anak muda terutama di kalangan para kreator seperti musisi, komikus, hingga aktor film. Tidak hanya itu, NJAWANI juga sudah dipakai oleh orang-orang Indonesia yang tinggal di luar negeri seperti Korea, Singapura, Malaysia, Jerman, dan Swiss."
+        },
+        {
+            "identifier": 73,
+            "url": "http://www.kreavi.com/ravimanthovani",
+            "profile": {
+                "name": "Ravi Manthovani",
+                "imageUrl": "foto-kreator/Ravi-m.jpg",
+                "birthDate": "13 August 1995",
+                "origin": "Jakarta",
+            },
+            "category": [217, 218, 219],
+            "portofoilio": [3, 7, 1],
+            "description": "Ravi Manthovani adalah salah satu desainer grafis yang mengisi waktu senggang sebagai penggiat kolase manual maupun digital di Jakarta. Berawal dari submisi kampus, Ravi mencoba mendalami apa yang disebut dengan gunting dan tempel dari tahun 2014. Dia menemukan bahwa kolase adalah suatu hal yang unik, karena menurutnya kolase bukan hanya sekedar memotong dan membuat suatu karya, tetapi juga menyisipkan pesan tersembunyi di balik itu hanya dengan bermodalkan potongan gambar yang pada awalnya mempunyai cerita masing-masing. Ravi juga merupakan kreator termuda yang dapat berpartisipasi di Basha Market x Popcon Asia setelah karyanya melalui tahap kurasi oleh Kreavi."
+        },
+        {
+            "identifier": 74,
+            "url": "http://www.kreavi.com/GODZILLARGE",
+            "profile": {
+                "name": "Rayo Denanda (GODZILLARGE)",
+                "imageUrl": "foto-kreator/Rayo.jpg",
+                "birthDate": "16 December 1994",
+                "origin": "Semarang",
+            },
+            "category": [220, 221, 222],
+            "portofoilio": [8, 7, 1],
+            "description": "Di balik karya-karyanya yang detail, siapa yang menyangka Rayo Denanda atau yang lebih dikenal dengan nama Godzillarge ini ternyata tidak memiliki latar belakang pendidikan desain. Ilustrator asal Malang ini menekuni keahlian menggambar sampai ilustrasi digital secara otodidak, mulai dari membaca buku, praktik, dan berdiskusi dengan teman sesama ilustrator digital. Perjalanan karir Godzillarge di bidang ilustrasi juga terbilang tidak mudah, berkali-kali dia berpikir untuk menyerah dan mencoba peruntungan pekerjaan lain di job fair yang dikunjunginya. Kunci pantang mundur ala Godzillarge adalah selalu memberikan kesempatan pada diri sendiri. Dari situ, dia mampu menghasilkan banyak karya dan mengikuti berbagai pameran seperti Star Wars Art Project Exhibition, Message Of Friendship From Central Java Exhibition, serta dua perhelatan International Art Festival - Anima Mundi yang diadakan di Lithuania pada 2014 dan di Georgia pada 2015. Godzillarge juga merupakan pemenang pertama dari Kreavi Challenge “karya sejuta xpresi BCA”."
+        },
+        {
+            "identifier": 75,
+            "url": "http://www.kreavi.com/kribkrib",
+            "profile": {
+                "name": "Reza Dwi Setyawan",
+                "imageUrl": "foto-kreator/Reza-dwi.jpg",
+                "birthDate": "2 September 1991",
+                "origin": "Surakarta",
+            },
+            "category": [223, 224, 225],
+            "portofoilio": [8, 7, 1],
+            "description": "Tak sedikit yang meyakini bahwa salah satu sifat orang yang memiliki kreativitas tinggi adalah cepat merasa bosan. Satu sifat inilah hal yang paling menggambarkan sosok Reza Dwi Setyawan yang akrab dipanggil Maskrib. Tentu rasa bosan di sini bukan hal negatif, karena itu menjadi ‘bekal’ Maskrib untuk mencicipi berbagai jenis bidang ilustrasi, mulai dari desain kaus sampai ilustrasi buku anak. Hal itu menjadi proses Maskrib menemukan karakter ilustrasi karyanya saat ini. Proyek pun berdatangan, mulai dari ilustrasi iklan, poster, kalender, packaging, dan branding."
+        },
+        {
+            "identifier": 76,
+            "url": "http://www.kreavi.com/Rifkifardianzah",
+            "profile": {
+                "name": "Rifki Fardianzah",
+                "imageUrl": "foto-kreator/Rifki-fardianzah.JPG",
+                "birthDate": "5 April 1995",
+                "origin": "Malang",
+            },
+            "category": [226, 227, 228],
+            "portofoilio": [8, 7, 4],
+            "description": "Bermodalkan kertas dan pensil, Rifki sudah hobi coret-coret gambar dari hasil imajinasi sendiri sejak SMP. Teknologi semakin berkembang, ia beralih belajar secara digital dengan peranti lunak bawaan Windows, yaitu Paint. Karena keterbatasan biaya, Rifki melanjutkan ke jenjang SMK jurusan mekanik otomotif. Namun jiwa seninya tetap melekat dan mendorong lelaki ini tetap belajar melalui cara otodidak dari YouTube, forum desain, dan teman-teman dari jurusan multimedia. Rifki yang sempat membantu mendesain produk untuk jualan teman ini pernah memenangkan kompetisi desain kaus di portal 99design. Dari situ Rifki semakin memantapkan diri untuk terus berkecimpung di dunia desain. Kesibukan Rifki sekarang ini bekerja sebagai desainer grafis di perusahaan teknologi beon.co.id di Kota Malang dengan fokus desain web dan interface, serta aktif di sebuah komunitas desainer muslim."
+        },
+        {
+            "identifier": 77,
+            "url": "http://www.kreavi.com/ritterwp",
+            "profile": {
+                "name": "Ritter Willy Putra",
+                "imageUrl": "foto-kreator/Ritter-willy.jpg",
+                "birthDate": "17 December 1993",
+                "origin": "Jakarta",
+            },
+            "category": [229, 230, 231],
+            "portofoilio": [8, 7, 6],
+            "description": "Ritter adalah desainer grafis dengan fokus ketertarikan pada editorial, branding, print, tactile, dan environment design. Dia memulai karier di bidang desain dengan menjadi pekerja lepas desainer grafis sejak tahun 2012. Saat kuliah, Ritter aktif mengelola majalah seni dan desain “Masterpiece Magazine” sebagai tim kreatif pada tahun pertama dan Editor in Chief di tahun kedua. Pengalaman selama 2 tahun itulah yang melatih Ritter memiliki kepekaan dalam tipografi dan layout. Ritter juga telah banyak mendapatkan penghargaan seperti The Best Art Directing Caraka Festival (2013), bronze kategori desain grafis cover majalah Pinasthika Creativestival (2014), dan The Best Collateral Ultigraph Award (2015)."
+        },
+        {
+            "identifier": 78,
+            "url": "http://www.kreavi.com/rikyrizaldy",
+            "profile": {
+                "name": "Rizky Rizaldy",
+                "imageUrl": "foto-kreator/Rizky-rizaldy.jpgRizky Rizaldy",
+                "birthDate": "21 January 1994",
+                "origin": "Bandung",
+            },
+            "category": [232, 233, 234],
+            "portofoilio": [9, 7, 1],
+            "description": "Berawal dari membaca buku aplikasi Photoshop saat SMP pada tahun 2006, Rizky Rizaldy tertarik mempelajari digital imaging. Lalu saat SMA, Rizky mulai mencoba menggambar berbagai macam sketsa yang lama-kelamaan menjadi hobinya hingga dia memutuskan untuk berkuliah di jurusan desain komunikasi visual di Bandung. Rizky juga ikut terlibat dalam proyek Kreavi x Tempo Boeng Ajo Boeng, sebuah proyek untuk mendesain kantor Tempo. Dalam sepak terjang kariernya, Rizky pertama kali bekerja di sebuah brand lokal di Bandung. Di sana dia mendesain t-shirt dan visual untuk konten instagram. Saat ini Rizky bekerja sebagai desainer grafis di sebuah event organizer di Bandung, dan mengerjakan berbagai proyek animasi dan desain acara untuk berbagai perusahaan."
+        },
+        {
+            "identifier": 79,
+            "url": "http://www.kreavi.com/ryanoktav",
+            "profile": {
+                "name": "Ryan Rizky Oktavianto",
+                "imageUrl": "foto-kreator/Ryan-Rizky.jpg",
+                "birthDate": "11 October 1995",
+                "origin": "Tangerang",
+            },
+            "category": [235, 236, 237],
+            "portofoilio": [7, 1, 5],
+            "description": "Ryan saat ini sedang menempuh semester akhir pendidikan S1 di Universitas Multimedia Nusantara (UMN), Tangerang. Di sela waktu kuliah, Ryan sudah mulai menenun karier sebagai desainer grafis lepas hingga sekarang. Sumber inspirasi yang dia dapatkan berasal dari banyak hal, seperti musik, cerita, olahraga, hingga nilai sosial. Fokus Ryan saat ini adalah ilustrasi, desain grafis, video & motion graphic dengan karakteristik karya serba digital. Meski sekarang sudah serba digital, lelaki kelahiran 11 Oktober 1995 ini mengaku masih suka menuangkan imajinasi lewat cara tradisional menggunakan pena dan kertas."
+        },
+        {
+            "identifier": 80,
+            "url": "http://www.kreavi.com/saleseles",
+            "profile": {
+                "name": "Salestinus Sustyo H",
+                "imageUrl": "foto-kreator/Salestinus.jpg",
+                "birthDate": "19 May 1991",
+                "origin": "Jawa Tengah",
+            },
+            "category": [238, 239, 240],
+            "portofoilio": [9, 7, 1],
+            "description": "Selama kuliah, Salestinus Sustyo H menyukai dunia ilustrasi terutama seni vetor. Hal ini  yang membuat Salestinus dikenal sebagai ilustrator dengan teknik vector. Lelaki ini bahkan sudah mulai menerima pekerjaan berbagai proyek ilustrasi buku anak sejak kuliah. Dalam dunia seni visual itu sendiri, Salestinus pernah menjadi juara ke-1 lomba poster Film Fan Art dari Muvispot. Sebelum menjadi pekerja lepas desainer grafis dan ilustrator seperti sekarang, Salestinus bekerja sebagai Junior Desainer Grafis di Yogyakarta. Lulusan Universitas Sebelas Maret ini memang menyukai hal-hal baru. Di samping mengerjakan buku anak, Salestinus juga sedang mencoba membuat aset ilustrasi untuk TVC dan ilustrasi karakter untuk aplikasi chatting yang masih dalam tahap peluncuran."
+        },
+        {
+            "identifier": 81,
+            "url": "http://www.kreavi.com/sefilianto5",
+            "profile": {
+                "name": "Sefilianto Ahmad Darmansyah",
+                "imageUrl": "foto-kreator/Sefilianto.jpg",
+                "birthDate": "5 November 1991",
+                "origin": "Bandung",
+            },
+            "category": [241, 242, 243],
+            "portofoilio": [7, 1, 6],
+            "description": "Lulusan Fakultas Seni dan Desain di ITB ini sangat menyukai desain karakter, ilustrasi, user interface, dan game development. Sefilianto merupakan salah satu dari 14 desainer terpilih dalam Reka Baru Desain Indonesia. Saat ini Sefilianto bekerja sebagai graphic user interface di Agate Studio. Sebelumnya, Sefilianto memiliki banyak pengalaman sebagai pekerja lepas, di antaranya 2D artist di Arsanesia Game Studio saat dia masih berkuliah, lalu dia juga pernah menjadi desainer grafis di Karnivall, sebuah startup pembuat aplikasi dan game."
+        },
+        {
+            "identifier": 82,
+            "url": "http://www.kreavi.com/solechan",
+            "profile": {
+                "name": "Solechan",
+                "imageUrl": "foto-kreator/Solechan.jpg",
+                "birthDate": "25 Desember 1990",
+                "origin": "Jawa Tengah",
+            },
+            "category": [244, 245, 246],
+            "portofoilio": [7, 1],
+            "description": "Solechan adalah ilustrator digital asal Solo yang fokus pada pembuatan ilustrasi, karakter, dan logo. Solechan yang menempuh pendidikan di Institut Seni di Kota Solo ini pernah menjadi kontributor seniman dalam program kolaborasi sosial antara Behance Japan dan Panasonic, Cut Out The Darkness. Selain ilustrasi, dalam perjalanan Solechan di dunia desain, dia sering diminta untuk mengerjakan karya mural. Solechan mulai serius mendalami bidang ilustrasi digital pada tahun 2010 dan mulai ikut serta dalam pameran serta mengerjakan segala pekerjaan yang berhubungan dengan desain sampai sekarang."
+        },
+        {
+            "identifier": 83,
+            "url": "http://www.kreavi.com/musicabluee",
+            "profile": {
+                "name": "Stevanus Kurniawan",
+                "imageUrl": "foto-kreator/Stevanus-Kurniawan.jpg",
+                "birthDate": "29 May 1992",
+                "origin": "Jakarta",
+            },
+            "category": [247, 248, 249],
+            "portofoilio": [8, 7, 6],
+            "description": "Lulusan Universitas Bina Nusantara ini bergabung dalam redaksi majalah desain grafis BINUS bernama “Titik Dua”. Dari situ, Stevanus bertemu banyak senior di dunia desain yang kemudian menginspirasinya dan melatih pemikiran kritis dan suatu prinsip, bahwa desainer grafis sejati adalah pemberi solusi visual yang harus menjawab kebutuhan permasalahan. Dalam perjalanan kariernya, Stevanus pernah magang di FullFill, sebuah desain studio di Jakarta. Ketika lulus, dia bekerja sebagai desainer grafis di Thinking*Room. Selain pengalaman belajar dan bekerja, karya Stevanus pernah diliput oleh Sandu Publishing, Guangzhou, China pada bukunya yaitu Type Player 3."
+        },
+        {
+            "identifier": 84,
+            "url": "http://www.kreavi.com/Sungging",
+            "profile": {
+                "name": "Sungging Priyanto",
+                "imageUrl": "foto-kreator/Sungging-Priyanto.jpg",
+                "birthDate": "14 January 1975",
+                "origin": "Tangerang",
+            },
+            "category": [250, 251, 252],
+            "portofoilio": [3, 7, 1],
+            "description": "Kurang lebih 23 tahun Sungging telah berkiprah di industri seni visual dan bekerja dalam berbagai jenis seni seperti grafis, seni rupa, komik, ilustrasi, dan melukis. Selain bekerja, Sungging ikut menggagas berdirinya sebuah komunitas Wedha’s Pop Art Portrait (WPAP) yang terinspirasi dari salah satu tokoh senior Wedha ABdul Rasyid. Bersama tim WPAP, dia juga sempat membawa komunitas ini ke Prancis untuk pameran dan workshop di tiga tempat, yakni Paris, Lumbres, dan Le Havre. Saat ini Sungging membawahi tim visual di perusahaan yang bergerak di media komik untuk anak-anak sekolah dasar dengan segmentasi komik sains."
+        },
+        {
+            "identifier": 85,
+            "url": "http://www.kreavi.com/SyamsRiadio",
+            "profile": {
+                "name": "Syams Riadio",
+                "imageUrl": "foto-kreator/Syams-Riadio.jpg",
+                "birthDate": "7 April 1992",
+                "origin": "Jakarta",
+            },
+            "category": [253, 254, 255],
+            "portofoilio": [1],
+            "description": "Masa kecil yang dipenuhi tayangan kartun di layar kaca seperti Dragon Ball membuat Syams tergerak untuk turut menghasilkan gambar visual serupa. Mimpi Syams tak pudar meski dimakan waktu. Memasuki jenjang perkuliahan, ia daftar di Fakultas Seni dan Desain di Universitas Multimedia Nusantara (UMN) dengan fokus ilustrasi. Bagi Syams, ilustrasi lebih dari sekadar gambar yang mengandung cerita, namun juga bisa menjadi representasi pemikiran manusia. Syams yang aktif di yayasan budaya rupa Maros ini pertama kali mengikuti pameran seni pada 2009 silam. Sejak itu, ia aktif berpartisipasi di berbagai pameran serta berkolaborasi dengan teman, aktif di workshop, dan membuat proyek pribadi. Saat ini Syams bekerja sebagai ilustrator lepas."
+        },
+        {
+            "identifier": 86,
+            "url": "http://www.kreavi.com/sylvialuciana",
+            "profile": {
+                "name": "Sylvia Luciana",
+                "imageUrl": "foto-kreator/sylvia.jpg",
+                "birthDate": "28 September 1993",
+                "origin": "Jakarta",
+            },
+            "category": [256, 257, 258],
+            "portofoilio": [8, 7, 1],
+            "description": "Ketertarikannya pada dunia desain berawal dari keisengan bermain Photoshop sejak SMP. Dari situ, Sylvia memutuskan untuk melanjutkan pendidikan sebagai mahasiswi DKV di Universitas Tarumanegara pada 2011 dan lulus empat tahun kemudian. Seperti kebanyakan orang, Sylvia mengira DKV adalah jurusan menggambar. Setelah mengetahui jurusannya itu lebih dari sekadar menggambar, ia memutuskan untuk mengangkat tema mahasiswa DKV di tugas akhirnya untuk mengubah pandangan masyarakat terhadap jurusan DKV dengan membuat buku berjudul DKVIARY. Tak hanya desain grafis, Sylvia juga memiliki kemampuan di bidang branding. Salah satu proyek yang didapatkan dari Kreavi adalah mengubah branding Zoombie Pootatie, snack kentang buatan rumah agar lebih fun dan dapat menyasar anak muda. Saat ini Sylvia bekerja sebagai desainer visual di salah satu startup di Indonesia dan bertanggung jawab atas semua implementasi aspek grafis dan visual, serta mengembangkan konsep kreatif untuk marketing campaign."
+        },
+        {
+            "identifier": 87,
+            "url": "http://www.kreavi.com/tazularifin",
+            "profile": {
+                "name": "Tazul Arifin",
+                "imageUrl": "foto-kreator/Tazul-Arifin.jpg",
+                "birthDate": "7 May 1992",
+                "origin": "Bandung",
+            },
+            "category": [259, 260, 261],
+            "portofoilio": [8, 7, 6],
+            "description": "Lelaki ini mengaku hobi fotografi sejak duduk di bangku SMA. Seiring berjalannya waktu, Aulia semakin fokus di bidang seni dan sempat mendirikan studio grafis bernama Natamemora. Sayangnya, Natamemora terpaksa ditutup karena minim pengalaman dalam bisnis desain. Semangatnya tak pernah pudar, ia lantas tetap aktif berkontribusi di banyak kesempatan seperti Bandung Design Friendly dan ADGI. Berkat kegigihannya dalam berkarya, Aulia berhasil diganjar berbagai prestasi seperti juara pertama Pankromatik Black and White Photography, medali perunggu atas predikat Book Cover Design & Poster Design Categories untuk Layang Kancana 2014, Best Symbiotic (Social Impact Project Based) Award KMDGI, dan juara pertama Bandung Car Modification Photo-Contest. Saat ini Aulia bekerja sebagai desainer grafis di POT Branding House bersama tiga temannya, Kresna Akhmadi, Ihsan Farhan dan Tazul Arifin."
+        },
+        {
+            "identifier": 88,
+            "url": "http://www.kreavi.com/ThaliaW",
+            "profile": {
+                "name": "Thomas Dian Kurniantoro",
+                "imageUrl": "foto-kreator/Thomas-Dian.jpg",
+                "birthDate": "30 April 1982",
+                "origin": "Yogyakarta",
+            },
+            "category": [262, 263, 264],
+            "portofoilio": [7, 1, 13],
+            "description": "Lahir dan besar di Yogyakarta, peran Thomas kini adalah sebagai Head of Visual Lab di sebuah startup kuliner, kulina.id. Perjalanan karier bapak muda dengan tiga anak perempuan ini dimulai pada tahun 2003 dengan bekerja di sebuah advertising lokal sebagai desainer grafis. Kemudian Thomas mencoba beralih haluan menjadi perancang antarmuka alias UI designer di perusahaan IT pada 2005. Dua tahun kemudian Thomas juga bergabung di Jogjaforce, sebuah komunitas digital art di Yogyakarta. Di sana ia berkolaborasi untuk mengadakan pameran dan  proyek komersial. Hingga akhirnya tahun 2008 Thomas memutuskan untuk menjadi ilustrator lepas dan fotografer. Sejak saat itu dia mulai menggambar untuk beberapa buku cerita bergambar anak-anak, karikatur, dan personal illustration. Thomas juga tercatat pernah menjadi marketing communication director untuk acara Festival Kesenian Yogyakarta dan berpartisipasi dalam acara Rupanada 2014, sebuah proyek kolaborasi Jogjaforce dan Kreavi."
+        },
+        {
+            "identifier": 89,
+            "url": "http://www.kreavi.com/thomasdian",
+            "profile": {
+                "name": "Thalia W",
+                "imageUrl": "foto-kreator/Thalia-w.jpg",
+                "birthDate": "16 September 1996",
+                "origin": "Jakarta",
+            },
+            "category": [265, 266, 267],
+            "portofoilio": [13],
+            "description": "Thalia adalah seorang fotografer fine art dan conceptual muda yang juga masih terdaftar sebagai mahasiswi DKV di Universitas Bunda Mulia. Berkat dosen yang juga mentornya, Atreyu Moniaga yang memperkenalkan dunia fotografi, Thalia mulai mempelajari fokus seni ini. Perempuan kelahiran 1996 ini memulai debut fotografinya dalam sebuah pameran bertajuk The BLIXT Project, sebuah pembuktian diri sebagai pelajar yang ingin unjuk gigi ke depan publik. Melalui fotografi, Thalia bermimpi suatu saat akan mampu mengangkat banyak orang khususnya perempuan agar lebih berani berbicara dan berkarya."
+        },
+        {
+            "identifier": 90,
+            "url": "http://www.kreavi.com/thomashanandry",
+            "profile": {
+                "name": "Thomas Hanandry",
+                "imageUrl": "foto-kreator/thomashanandry.jpg",
+                "birthDate": "4 Juni 1981",
+                "origin": "Surabaya",
+            },
+            "category": [268, 269, 270],
+            "portofoilio": [2, 1],
+            "description": "“Perempuan dan kecantikannya” adalah makna yang biasa hinggap di pikiran orang-orang jika melihat karya thomashanandry secara keseluruhan. Dari kecil, ia senang meniru gambar komik dan terus berlanjut sampai ke jenjang SMP di mana teman-temannya suka membeli gambar buatannya. Hal menarik lain saat ia duduk di bangku SMA, gambarnya dijadikan suvenir perpisahan kelas. Setelah lulus kuliah di bidang desain, thomashanandry mulai belajar gambar realis dan pundi-pundi uang mulai mengikuti. Awal tahun 2016 ia mulai mempelajari teknik cat air hingga sekarang. Teknik yang ia pelajari itu diberi nama water(less)color dan menjadi topik di berbagai workshop yang mengundang thomashanandry sebagai pembicara."
+        },
+        {
+            "identifier": 91,
+            "url": "http://www.kreavi.com/Tonymidi",
+            "profile": {
+                "name": "Tonymidi",
+                "imageUrl": "foto-kreator/TONYMIDI.jpg",
+                "birthDate": "",
+                "origin": "",
+            },
+            "category": [271, 272, 273],
+            "portofoilio": [],
+            "description": "Siapa sangka, orang dibalik karya-karya detail dan butuh ketelitian itu adalah individu yang ceroboh dan selalu terburu-buru bernama Tonymidi. Keteguhan untuk mempertajam hobi menggambarnya itu mendorong Tony menyelesaikan pendidikan desain grafis D1. Tetapi menjadikan hobi sebagai profesi bukanlah hal yang mudah, apalagi Tony tidak memiliki komputernya sendiri. Modal yang dia punya hanya otak, tangan, kepercayaan diri dan hasratnya. Tony juga sempat bekerja sebagai desain grafis di sebuah advertising kecil di Malang dengan gaji Rp500 ribu tiap bulan. Titik balik dalam hidupnya saat Tony mendapatkan komputer, hadiah dari sang ibu pada tahun 2010. Hal itu menjadi kekuatan untuknya dalam mengembangkan karya, hingga pada awal tahun 2011 ia mendedikasikan dirinya sebagai ilustrator lepas dengan klien dari berbagai belahan dunia."
+        },
+        {
+            "identifier": 92,
+            "url": "http://www.kreavi.com/tonyzhang88",
+            "profile": {
+                "name": "Tony Wartono - Zhang",
+                "imageUrl": "foto-kreator/Tony-Wartono.jpg",
+                "birthDate": "31 March 1988",
+                "origin": "Jakarta",
+            },
+            "category": [274, 275, 276],
+            "portofoilio": [7, 1, 5],
+            "description": "Zhang banyak mempelajari gaya visual untuk anak-anak dari segi desain sejak ia pertama kali memulai karier di sebuah perusahaan penerbit buku anak di Jakarta. Senang mengeksplorasi hal-hal baru, pada tahun 2011 lulusan multimedia DKV dari ITB ini melanjutkan kariernya sebagai desainer multimedia di sebuah perusahaan penyedia jasa internet. Selama lebih dari 4,5 tahun Zhang bertanggung jawab untuk segala kebutuhan perusahaan baik itu video motion hingga media cetak serta menjadi supervisor di divisi Creative. Tidak mau berhenti sampai di situ, dari awal tahun 2016 hingga sekarang Zhang bekerja di sebuah perusahaan advertising ternama asal Australia yang berlokasi di Bali. Selain itu, dia juga mengisi waktu luangnya menjadi freelancer mulai dari ilustrator buku anak, motion graphic, hingga graphic design untuk berbagai perusahaan."
+        },
+        {
+            "identifier": 93,
+            "url": "http://www.kreavi.com/Vick",
+            "profile": {
+                "name": "Vicky Saputra",
+                "imageUrl": "foto-kreator/Vicky-saputra.jpg",
+                "birthDate": "4 August 1996",
+                "origin": "Jakarta",
+            },
+            "category": [277, 278, 279],
+            "portofoilio": [3, 1],
+            "description": "Usia muda tidak menghentikan Vicky bersama teman-temannya membuat pameran karyanya sendiri di awal tahun 2016 bertajuk Mixed Feelings 01: Illustration Exhibition di That’s Life Coffee. Tidak hanya itu, Vicky sempat beberapa kali mengikuti berbagai pameran, seperti Hutan Itu Masa Depan Exhibition dan Boeng Ajo Boeng hasil kolaborasi Kreavi dengan Tempo. Lelaki kelahiran Bandung ini mendapatkan penghargaan karya terbaik dari Festival Jakarta 32°C , sebuah forum dan festival visual art mahasiswa Jakarta. Selain ilustrasi, Vicky juga memiliki ketertarikan di bidang fine art, musik, sains, dan ilmu sosial. Dan ketertarikan ini pula yang membuat dirinya mengangkat isu-isu tersebut untuk direpresentasikan menjadi sebuah ilustrasi."
+        },
+        {
+            "identifier": 94,
+            "url": "http://www.kreavi.com/mbeembee",
+            "profile": {
+                "name": "Walid Rusdianto",
+                "imageUrl": "foto-kreator/Walid-Rudianto.JPG",
+                "birthDate": "4 August 1994",
+                "origin": "Malang",
+            },
+            "category": [280, 281, 282],
+            "portofoilio": [2, 9, 1],
+            "description": "Walid Rusdianto yang biasa dikenal dengan panggilan Mbembee adalah seorang ilustrator berbasis di Malang. Menggunakan teknik digital, fokus yang ia tekuni adalah ilustrasi karakter. Jika boleh kilas balik, Mbeembee awalnya mengambil jurusan DKV di Universitas Negeri Malang. Setelah bergelut di dunia grafis akhirnya ia menemukan jalur yang cocok dengan keahliannya, yaitu ilustrasi. Mbembee aktif mengikuti pameran Boeng Ajo Boeng yang diselenggarakan di Gedung Tempo Jakarta, di mana acara ini turut diikuti oleh 17 kandidat terpilih program Kreavi 17."
+        },
+        {
+            "identifier": 95,
+            "url": "http://www.kreavi.com/Rhadiska",
+            "profile": {
+                "name": "Weldy Rhadiska",
+                "imageUrl": "foto-kreator/Weldy-rhadiska.jpg",
+                "birthDate": "26 September 1993",
+                "origin": "Jakarta",
+            },
+            "category": [283, 284, 285],
+            "portofoilio": [13],
+            "description": "Weldy pertama kali berkenalan dengan ‘dunia’ fotografi dari kamera ponsel Nokia N70 miliknya saat duduk di bangku SMP. Sejak saat itu, lelaki yang biasa disapa Rhadiska ini memutuskan untuk memperdalam bidang fotografi dengan melanjutkan jenjang pendidikan ke Lasalle College dan mengambil diploma of photography. Saat kuliah, Rhadiska mulai mengenal sebuah genre fotografi yaitu conceptual photography yang kemudian menjadi influence terbesar dari setiap karyanya baik secara profesional maupun personal. Aktif dalam berbagai kegiatan, lelaki kelahiran 1993 ini juga ikut serta dalam Iso 100, sebuah proyek kolaborasi experimental photography dan proyek Tempo: Boeng Ajo Boeng bersama kreator Kreavi lainnya. Setelah mengakhiri masa magangnya di Kompas Gramedia pada akhir 2014, Rhadiska akhirnya memilih untuk berkarier sebagai freelance fashion and portrait photographer hingga sekarang."
+        },
+        {
+            "identifier": 96,
+            "url": "http://www.kreavi.com/wilhemus",
+            "profile": {
+                "name": "Willy Suciadi",
+                "imageUrl": "foto-kreator/Willy-Suciadi.jpg",
+                "birthDate": "23 September 1995",
+                "origin": "Jakarta",
+            },
+            "category": [286, 287, 288],
+            "portofoilio": [8, 7, 13],
+            "description": "Menjadi mahasiswa tingkat akhir identik dengan kesibukan seputar tugas akhir. Tampaknya hal ini tidak berlaku bagi Wilhemus yang masih aktif ikut serta dalam berbagai kegiatan seperti pameran seni, workshop kreatif, sampai terlibat langsung dalam desain majalah kampusnya, Garis Bawah. Lelaki kelahiran 1995 ini telah memenangkan dua Kreavi Challenge, yakni Rise of Elephants dan Persona VA, di mana karya visualnya dijadikan sampul album terbaru penyanyi Vidi Aldiano yang berjudul Persona. Ketertarikannya pada desain grafis berawal saat melihat desain presentasi power point milik sepupunya. Sejak saat itulah ia mulai memperdalam ilmu desain grafis. Tak puas di situ, Willy juga aktif mengeksplorasi keahliannya di bidang fotografi sampai mengadakan pameran fotografi sendiri bersama teman-temannya."
+        },
+        {
+            "identifier": 97,
+            "url": "http://www.kreavi.com/yanahdiat",
+            "profile": {
+                "name": "Yan Ahdiat",
+                "imageUrl": "foto-kreator/Yan-Ahdiat.jpg",
+                "birthDate": "23 January 1992",
+                "origin": "Bandung",
+            },
+            "category": [289, 290, 291],
+            "portofoilio": [2, 9, 1],
+            "description": "Ketertarikannya di bidang kreatif datang dari kegemaran Yan mencoret buku catatan sekolahnya dengan banyak gambar. Hal itu dia lakukan sepanjang masa sekolah hingga akhirnya dia memutuskan untuk kuliah di ITENAS Bandung. Dari sana dia mulai mengenal dan belajar berbagai jenis desain dan akhirnya memutuskan untuk fokus pada ranah ilustrasi dan desain grafis. Perjalanan karier lelaki kelahiran 1992 ini pun juga sudah dimulai pada masa kuliahnya. Keterbatasan finansial dan tuntutan biaya segala aktivitas kuliah mendorong Yan untuk mencari dana tambahan sebagai freelancer untuk gambar karikatur, poster, desain sampul, ilustrasi buku, hingga brand identity."
+        },
+        {
+            "identifier": 98,
+            "url": "http://www.kreavi.com/yerikhonaektua",
+            "profile": {
+                "name": "Yerikho Naektua Purba",
+                "imageUrl": "foto-kreator/Yerikho-Naektua.jpg",
+                "birthDate": "22 September 1991",
+                "origin": "Bali",
+            },
+            "category": [292, 293, 294],
+            "portofoilio": [7, 6, 1],
+            "description": "Bermodalkan kertas dan pensil, lelaki yang akrab disapa Iyek ini mengasah kemampuan menggambarnya melalui berbagai kompetisi. Beranjak dewasa, Iyek menuntut ilmu sebagai mahasiswa DKV di ISI Yogyakarta. Dari sana, Iyek mendapatkan banyak peluang yang mendukung karyanya dan berhasil mendapat kesempatan untuk mengikuti Kopikeliling vol. 6, salah satu pameran ilustrasi karya visual artist berbakat Indonesia yang bertemakan kopi. Dari sana Iyek bergabung dengan Fabula dan menangani brand-brand ternama."
+        },
+        {
+            "identifier": 99,
+            "url": "http://www.kreavi.com/YisarAndri",
+            "profile": {
+                "name": "Yisar Andrianus",
+                "imageUrl": "foto-kreator/Yisar-andrianus.jpg",
+                "birthDate": "1 September 1987",
+                "origin": "Salatiga",
+            },
+            "category": [295, 296, 297],
+            "portofoilio": [9, 7, 1],
+            "description": "Terjun di dunia desain tidak dilalui dengan proses yang mulus. Meski sejak kecil gemar menghiasi buku pelajaran dengan guratan gambar imajinasi, Yisarandri bergabung di Fakultas Teknik Informatika selama tiga tahun karena kala itu masih minim informasi dan nihil dukungan orangtua. Lelaki kelahiran Semarang, 1 September 1987 ini lalu mendapat kesempatan mencicipi ilmu DKV saat kampusnya membuka program diklat baru. Menghabiskan waktu empat tahun di jurusan DKV telah memperkaya jumlah portofolio yang dia miliki. Tak heran, Yisarandri mudah mendapat pekerjaan. Fokus menjadi ilustrator, Yisarandri pernah menyandang predikat The Best Designer of The Month dari portal desain online 99design. Hal ini diakui Syams mampu memompa semangat dan kepercayaan yang ia miliki untuk menekuni keterampilan dalam bidang seni dan bekerja murni dengan hati."
+        },
+        {
+            "identifier": 100,
+            "url": "http://www.kreavi.com/yohanesraymond",
+            "profile": {
+                "name": "Yohanes Raymond",
+                "imageUrl": "foto-kreator/YOHANES.jpg",
+                "birthDate": "16 March 1988",
+                "origin": "Jakarta",
+            },
+            "category": [298, 299, 300],
+            "portofoilio": [8, 18, 7],
+            "description": "Alumnus jurusan DKV Universitas Petra Surabaya ini sering mengisi event seminar branding di berbagai kota. Raymond pernah terpilih dua kali mewakili Indonesia sebagai salah satu pembicara di Asean Creative Talk in Asia di Bangkok pada tahun 2014 dan di Taiwan pada 2016. Sebelumnya, Raymond juga pernah mengalami beberapa kali kegagalan di bisnis desain grafis. Hal ini tidak mematahkan semangatnya untuk terus bangkit dan melakukan yang terbaik dalam berkarya. Hal ini terlihat melalui kiprahnya di bidang branding & graphic design. Proyek yang pernah dikerjakan Raymond pun beragam, mulai dari hospitality, architecture, property, luxury real estate, luxury brand, food & beverage, fashion, premium product dan lain sebagainya. Beberapa karya desainnya pun sering dipublikasikan di dalam buku berskala internasional."
+        },
+
+    ]
+}
